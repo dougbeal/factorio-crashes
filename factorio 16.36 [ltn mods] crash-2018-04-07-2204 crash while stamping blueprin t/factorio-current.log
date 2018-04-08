@@ -1,0 +1,648 @@
+   0.000 2018-04-07 19:36:32; Factorio 0.16.36 (build 36253, mac, alpha)
+   0.000 Operating system: macOS 10.12.6
+   0.000 Program arguments: "/Applications/factorio.app" 
+   0.000 Read data path: /Applications/factorio.app/Contents/data
+   0.000 Write data path: /Users/dougbeal/Library/Application Support/factorio [289197/475840MB]
+   0.000 Binaries path: /
+   0.015 System info: [CPU: Intel(R) Core(TM) m5-6Y54 CPU @ 1.10GHz, 4 cores, RAM: 8192 MB]
+   0.022 Display options: [FullScreen: 0] [VSync: 1] [UIScale: system (100.0%)] [MultiSampling: OFF] [Screen: 255] [Lang: en]
+   0.022 Available display adapters: 1
+   0.022  [0]: resolution 1280x800px at [0,0]
+   0.022 Create display on adapter 0. Size 1230x720 at position [15, 22].
+   0.091 Initialised OpenGL:[0] Intel(R) HD Graphics 515; driver: 2.1 INTEL-10.25.17
+   0.092   Dedicated video memory size 1536 MB
+   0.410 Graphics settings preset: high
+   0.410 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
+   0.410                   [Parallel sprite loading: 1] [Max texture size: 0/8192] [Bmp cache: 0] [Sprite slicing: 1] [Low quality rotation: 0]
+   0.939 Loading mod settings miniloader 1.5.16 (settings.lua)
+   0.939 Loading mod settings Advanced-Atomics 0.1.6 (settings.lua)
+   0.939 Loading mod settings alien-biomes 0.3.8 (settings.lua)
+   0.941 Loading mod settings AutoDeconstruct 0.1.11 (settings.lua)
+   0.941 Loading mod settings Bottleneck 0.9.1 (settings.lua)
+   0.941 Loading mod settings creative-mode-fix 0.0.25 (settings.lua)
+   0.948 Loading mod settings DeadlockCrating 1.2.1 (settings.lua)
+   0.948 Loading mod settings DeadlockLoaders 1.4.1 (settings.lua)
+   0.949 Loading mod settings DeadlockStacking 1.5.2 (settings.lua)
+   0.949 Loading mod settings even-distribution 0.2.8 (settings.lua)
+   0.950 Loading mod settings helmod 0.7.7 (settings.lua)
+   0.951 Loading mod settings LogisticTrainNetwork 1.7.6 (settings.lua)
+   0.953 Loading mod settings long-reach 0.0.13 (settings.lua)
+   0.953 Loading mod settings Nanobots 2.0.2 (settings.lua)
+   0.955 Loading mod settings PavementDriveAssist 2.1.6 (settings.lua)
+   0.957 Loading mod settings PickerExtended 3.0.3 (settings.lua)
+   0.964 Loading mod settings research-queue 1.6.4 (settings.lua)
+   0.965 Loading mod settings TrainToggle 1.0.2 (settings.lua)
+   0.966 Loading mod settings ZRecycling 0.16.6 (settings.lua)
+   0.980 Loading mod core 0.0.0 (data.lua)
+   1.015 Loading mod base 0.16.36 (data.lua)
+   1.292 Loading mod miniloader 1.5.16 (data.lua)
+   1.377 Loading mod Advanced-Atomics 0.1.6 (data.lua)
+   1.454 Loading mod AfraidOfTheDark 1.0.20 (data.lua)
+   1.530 Loading mod alien-biomes 0.3.8 (data.lua)
+   2.100 Loading mod Bottleneck 0.9.1 (data.lua)
+   2.261 Loading mod Crafting_Speed_Research 0.2.0 (data.lua)
+   2.410 Loading mod creative-mode-fix 0.0.25 (data.lua)
+   2.597 Loading mod DeadlockLoaders 1.4.1 (data.lua)
+   2.762 Loading mod DistancePlus 0.16.0 (data.lua)
+   2.930 Loading mod even-distribution 0.2.8 (data.lua)
+   3.107 Loading mod FNEI 0.1.5 (data.lua)
+   3.296 Loading mod helmod 0.7.7 (data.lua)
+   3.497 Loading mod LogisticTrainNetwork 1.7.6 (data.lua)
+   3.708 Loading mod Nanobots 2.0.2 (data.lua)
+   3.907 Loading mod PavementDriveAssist 2.1.6 (data.lua)
+   4.089 Loading mod PickerExtended 3.0.3 (data.lua)
+   4.341 Loading mod Power Armor MK3 0.1.3 (data.lua)
+   4.581 Loading mod RadarGridGuide 0.16.1 (data.lua)
+   4.799 Loading mod research-queue 1.6.4 (data.lua)
+   4.953 Loading mod Tiny_Start 0.16.0 (data.lua)
+   5.103 Loading mod TrainToggle 1.0.2 (data.lua)
+   5.230 Loading mod upgrade-planner 1.5.3 (data.lua)
+   5.388 Loading mod VehicleSnap 1.16.0 (data.lua)
+   5.548 Loading mod Warehousing 0.1.2 (data.lua)
+   5.715 Loading mod WaterWell 1.0.19 (data.lua)
+   5.859 Loading mod ZRecycling 0.16.6 (data.lua)
+   5.994 Loading mod OutpostPlanner 1.0.2 (data.lua)
+   6.138 Loading mod base 0.16.36 (data-updates.lua)
+   6.309 Loading mod AfraidOfTheDark 1.0.20 (data-updates.lua)
+   6.461 Loading mod alien-biomes 0.3.8 (data-updates.lua)
+   6.613 Loading mod Nanobots 2.0.2 (data-updates.lua)
+   6.765 Loading mod Squeak Through 1.2.2 (data-updates.lua)
+   6.914 Loading mod Advanced-Atomics 0.1.6 (data-final-fixes.lua)
+   7.084 Loading mod alien-biomes 0.3.8 (data-final-fixes.lua)
+   7.176 Script @__alien-biomes__/data-final-fixes.lua:259: Setting decals to layer 159
+   7.176 Script @__alien-biomes__/data-final-fixes.lua:330: logging tile layers
+   7.195 Script @__alien-biomes__/data-final-fixes.lua:335: {
+  ["layer 1"] = "water-green",
+  ["layer 2"] = "deepwater-green",
+  ["layer 3"] = "mineral-purple-dirt-1",
+  ["layer 4"] = "mineral-purple-dirt-2",
+  ["layer 5"] = "mineral-purple-dirt-3",
+  ["layer 6"] = "mineral-purple-dirt-4",
+  ["layer 7"] = "mineral-purple-dirt-5",
+  ["layer 8"] = "mineral-purple-dirt-6",
+  ["layer 9"] = "mineral-purple-sand-1",
+  ["layer 10"] = "mineral-purple-sand-2",
+  ["layer 11"] = "mineral-purple-sand-3",
+  ["layer 12"] = "mineral-violet-dirt-1",
+  ["layer 13"] = "mineral-violet-dirt-2",
+  ["layer 14"] = "mineral-violet-dirt-3",
+  ["layer 15"] = "mineral-violet-dirt-4",
+  ["layer 16"] = "mineral-violet-dirt-5",
+  ["layer 17"] = "mineral-violet-dirt-6",
+  ["layer 18"] = "mineral-violet-sand-1",
+  ["layer 19"] = "mineral-violet-sand-2",
+  ["layer 20"] = "mineral-violet-sand-3",
+  ["layer 21"] = "mineral-red-dirt-1",
+  ["layer 22"] = "mineral-red-dirt-2",
+  ["layer 23"] = "mineral-red-dirt-3",
+  ["layer 24"] = "mineral-red-dirt-4",
+  ["layer 25"] = "mineral-red-dirt-5",
+  ["layer 26"] = "mineral-red-dirt-6",
+  ["layer 27"] = "mineral-red-sand-1",
+  ["layer 28"] = "mineral-red-sand-2",
+  ["layer 29"] = "mineral-red-sand-3",
+  ["layer 30"] = "mineral-brown-dirt-1",
+  ["layer 31"] = "mineral-brown-dirt-2",
+  ["layer 32"] = "mineral-brown-dirt-3",
+  ["layer 33"] = "mineral-brown-dirt-4",
+  ["layer 34"] = "mineral-brown-dirt-5",
+  ["layer 35"] = "mineral-brown-dirt-6",
+  ["layer 36"] = "mineral-brown-sand-1",
+  ["layer 37"] = "mineral-brown-sand-2",
+  ["layer 38"] = "mineral-brown-sand-3",
+  ["layer 39"] = "mineral-tan-dirt-1",
+  ["layer 40"] = "mineral-tan-dirt-2",
+  ["layer 41"] = "mineral-tan-dirt-3",
+  ["layer 42"] = "mineral-tan-dirt-4",
+  ["layer 43"] = "mineral-tan-dirt-5",
+  ["layer 44"] = "mineral-tan-dirt-6",
+  ["layer 45"] = "mineral-tan-sand-1",
+  ["layer 46"] = "mineral-tan-sand-2",
+  ["layer 47"] = "mineral-tan-sand-3",
+  ["layer 48"] = "mineral-aubergine-dirt-1",
+  ["layer 49"] = "mineral-aubergine-dirt-2",
+  ["layer 50"] = "mineral-aubergine-dirt-3",
+  ["layer 51"] = "mineral-aubergine-dirt-4",
+  ["layer 52"] = "mineral-aubergine-dirt-5",
+  ["layer 53"] = "mineral-aubergine-dirt-6",
+  ["layer 54"] = "mineral-aubergine-sand-1",
+  ["layer 55"] = "mineral-aubergine-sand-2",
+  ["layer 56"] = "mineral-aubergine-sand-3",
+  ["layer 57"] = "mineral-dustyrose-dirt-1",
+  ["layer 58"] = "mineral-dustyrose-dirt-2",
+  ["layer 59"] = "mineral-dustyrose-dirt-3",
+  ["layer 60"] = "mineral-dustyrose-dirt-4",
+  ["layer 61"] = "mineral-dustyrose-dirt-5",
+  ["layer 62"] = "mineral-dustyrose-dirt-6",
+  ["layer 63"] = "mineral-dustyrose-sand-1",
+  ["layer 64"] = "mineral-dustyrose-sand-2",
+  ["layer 65"] = "mineral-dustyrose-sand-3",
+  ["layer 66"] = "mineral-beige-dirt-1",
+  ["layer 67"] = "mineral-beige-dirt-2",
+  ["layer 68"] = "mineral-beige-dirt-3",
+  ["layer 69"] = "mineral-beige-dirt-4",
+  ["layer 70"] = "mineral-beige-dirt-5",
+  ["layer 71"] = "mineral-beige-dirt-6",
+  ["layer 72"] = "mineral-beige-sand-1",
+  ["layer 73"] = "mineral-beige-sand-2",
+  ["layer 74"] = "mineral-beige-sand-3",
+  ["layer 75"] = "mineral-cream-dirt-1",
+  ["layer 76"] = "mineral-cream-dirt-2",
+  ["layer 77"] = "mineral-cream-dirt-3",
+  ["layer 78"] = "mineral-cream-dirt-4",
+  ["layer 79"] = "mineral-cream-dirt-5",
+  ["layer 80"] = "mineral-cream-dirt-6",
+  ["layer 81"] = "mineral-cream-sand-1",
+  ["layer 82"] = "mineral-cream-sand-2",
+  ["layer 83"] = "mineral-cream-sand-3",
+  ["layer 84"] = "mineral-black-dirt-1",
+  ["layer 85"] = "mineral-black-dirt-2",
+  ["layer 86"] = "mineral-black-dirt-3",
+  ["layer 87"] = "mineral-black-dirt-4",
+  ["layer 88"] = "mineral-black-dirt-5",
+  ["layer 89"] = "mineral-black-dirt-6",
+  ["layer 90"] = "mineral-black-sand-1",
+  ["layer 91"] = "mineral-black-sand-2",
+  ["layer 92"] = "mineral-black-sand-3",
+  ["layer 93"] = "mineral-grey-dirt-1",
+  ["layer 94"] = "mineral-grey-dirt-2",
+  ["layer 95"] = "mineral-grey-dirt-3",
+  ["layer 96"] = "mineral-grey-dirt-4",
+  ["layer 97"] = "mineral-grey-dirt-5",
+  ["layer 98"] = "mineral-grey-dirt-6",
+  ["layer 99"] = "mineral-grey-sand-1",
+  ["layer 100"] = "mineral-grey-sand-2",
+  ["layer 101"] = "mineral-grey-sand-3",
+  ["layer 102"] = "mineral-white-dirt-1",
+  ["layer 103"] = "mineral-white-dirt-2",
+  ["layer 104"] = "mineral-white-dirt-3",
+  ["layer 105"] = "mineral-white-dirt-4",
+  ["layer 106"] = "mineral-white-dirt-5",
+  ["layer 107"] = "mineral-white-dirt-6",
+  ["layer 108"] = "mineral-white-sand-1",
+  ["layer 109"] = "mineral-white-sand-2",
+  ["layer 110"] = "mineral-white-sand-3",
+  ["layer 111"] = "vegetation-turquoise-grass-1",
+  ["layer 112"] = "vegetation-turquoise-grass-2",
+  ["layer 113"] = "vegetation-green-grass-1",
+  ["layer 114"] = "vegetation-green-grass-2",
+  ["layer 115"] = "vegetation-green-grass-3",
+  ["layer 116"] = "vegetation-green-grass-4",
+  ["layer 117"] = "vegetation-olive-grass-1",
+  ["layer 118"] = "vegetation-olive-grass-2",
+  ["layer 119"] = "vegetation-yellow-grass-1",
+  ["layer 120"] = "vegetation-yellow-grass-2",
+  ["layer 121"] = "vegetation-orange-grass-1",
+  ["layer 122"] = "vegetation-orange-grass-2",
+  ["layer 123"] = "vegetation-red-grass-1",
+  ["layer 124"] = "vegetation-red-grass-2",
+  ["layer 125"] = "vegetation-violet-grass-1",
+  ["layer 126"] = "vegetation-violet-grass-2",
+  ["layer 127"] = "vegetation-purple-grass-1",
+  ["layer 128"] = "vegetation-purple-grass-2",
+  ["layer 129"] = "vegetation-mauve-grass-1",
+  ["layer 130"] = "vegetation-mauve-grass-2",
+  ["layer 131"] = "vegetation-blue-grass-1",
+  ["layer 132"] = "vegetation-blue-grass-2",
+  ["layer 133"] = "volcanic-orange-heat-1",
+  ["layer 134"] = "volcanic-orange-heat-2",
+  ["layer 135"] = "volcanic-orange-heat-3",
+  ["layer 136"] = "volcanic-orange-heat-4",
+  ["layer 137"] = "volcanic-green-heat-1",
+  ["layer 138"] = "volcanic-green-heat-2",
+  ["layer 139"] = "volcanic-green-heat-3",
+  ["layer 140"] = "volcanic-green-heat-4",
+  ["layer 141"] = "volcanic-blue-heat-1",
+  ["layer 142"] = "volcanic-blue-heat-2",
+  ["layer 143"] = "volcanic-blue-heat-3",
+  ["layer 144"] = "volcanic-blue-heat-4",
+  ["layer 145"] = "volcanic-purple-heat-1",
+  ["layer 146"] = "volcanic-purple-heat-2",
+  ["layer 147"] = "volcanic-purple-heat-3",
+  ["layer 148"] = "volcanic-purple-heat-4",
+  ["layer 149"] = "frozen-snow-0",
+  ["layer 150"] = "frozen-snow-1",
+  ["layer 151"] = "frozen-snow-2",
+  ["layer 152"] = "frozen-snow-3",
+  ["layer 153"] = "frozen-snow-4",
+  ["layer 154"] = "frozen-snow-5",
+  ["layer 155"] = "frozen-snow-6",
+  ["layer 156"] = "frozen-snow-7",
+  ["layer 157"] = "frozen-snow-8",
+  ["layer 158"] = "frozen-snow-9",
+  ["layer 159"] = "landfill",
+  ["layer 160"] = "sand-1",
+  ["layer 161"] = "sand-2",
+  ["layer 162"] = "sand-3",
+  ["layer 163"] = "red-desert-1",
+  ["layer 164"] = "red-desert-2",
+  ["layer 165"] = "red-desert-3",
+  ["layer 166"] = "dry-dirt",
+  ["layer 167"] = "dirt-1",
+  ["layer 168"] = "dirt-2",
+  ["layer 169"] = "dirt-3",
+  ["layer 170"] = "dirt-4",
+  ["layer 171"] = "dirt-5",
+  ["layer 172"] = "dirt-6",
+  ["layer 173"] = "dirt-7",
+  ["layer 174"] = "grass-1",
+  ["layer 175"] = "grass-2",
+  ["layer 176"] = "grass-3",
+  ["layer 177"] = "grass-4",
+  ["layer 178"] = "red-desert-0",
+  ["layer 179"] = "stone-path",
+  ["layer 180"] = "concrete",
+  ["layer 181"] = "hazard-concrete-left",
+  ["layer 182"] = "hazard-concrete-right",
+  ["layer 183"] = "refined-concrete",
+  ["layer 184"] = "refined-hazard-concrete-left",
+  ["layer 185"] = "refined-hazard-concrete-right",
+  ["layer 186"] = "out-of-map",
+  ["layer 187"] = "lab-dark-1",
+  ["layer 188"] = "lab-dark-2",
+  ["layer 189"] = "lab-white",
+  ["layer 190"] = "tutorial-grid"
+}
+   7.332 Loading mod BitersBegone 4.0.0 (data-final-fixes.lua)
+   7.479 Loading mod creative-mode-fix 0.0.25 (data-final-fixes.lua)
+   7.634 Loading mod DeadlockCrating 1.2.1 (data-final-fixes.lua)
+   7.792 Loading mod DeadlockLoaders 1.4.1 (data-final-fixes.lua)
+   7.942 Loading mod DeadlockStacking 1.5.2 (data-final-fixes.lua)
+   8.097 Loading mod even-distribution 0.2.8 (data-final-fixes.lua)
+   8.261 Loading mod LogisticTrainNetwork 1.7.6 (data-final-fixes.lua)
+   8.265 Script @__LogisticTrainNetwork__/data-final-fixes.lua:110: [LTN] found 436 items, 8 fluids, 1 locomotives, 6 wagons
+   8.422 Loading mod PickerExtended 3.0.3 (data-final-fixes.lua)
+   8.589 Loading mod RadarGridGuide 0.16.1 (data-final-fixes.lua)
+   8.741 Loading mod research-queue 1.6.4 (data-final-fixes.lua)
+   8.906 Loading mod Warehousing 0.1.2 (data-final-fixes.lua)
+   9.062 Loading mod ZRecycling 0.16.6 (data-final-fixes.lua)
+   9.577 Checksum for core: 1316978547
+   9.577 Checksum of base: 4140083139
+   9.577 Checksum of miniloader: 2956903923
+   9.577 Checksum of Advanced-Atomics: 2495935410
+   9.577 Checksum of AfraidOfTheDark: 3127716310
+   9.577 Checksum of alien-biomes: 3557129792
+   9.577 Checksum of AutoDeconstruct: 2582707891
+   9.577 Checksum of BitersBegone: 2036269653
+   9.577 Checksum of Bottleneck: 3138809866
+   9.577 Checksum of Crafting_Speed_Research: 3882224114
+   9.577 Checksum of creative-mode-fix: 1388101505
+   9.577 Checksum of DeadlockCrating: 4182227509
+   9.577 Checksum of DeadlockLoaders: 1437062057
+   9.577 Checksum of DeadlockStacking: 623781255
+   9.577 Checksum of DistancePlus: 3497727306
+   9.577 Checksum of even-distribution: 1638450686
+   9.577 Checksum of FNEI: 3244732367
+   9.577 Checksum of helmod: 2161015292
+   9.577 Checksum of LogisticTrainNetwork: 2620749778
+   9.577 Checksum of long-reach: 4166847516
+   9.577 Checksum of Nanobots: 2475870239
+   9.577 Checksum of PavementDriveAssist: 203822894
+   9.577 Checksum of PickerExtended: 3489467438
+   9.577 Checksum of PlannerCore: 0
+   9.577 Checksum of Power Armor MK3: 675773098
+   9.577 Checksum of RadarGridGuide: 353437662
+   9.577 Checksum of research-queue: 984510500
+   9.577 Checksum of Squeak Through: 3677677690
+   9.577 Checksum of Tiny_Start: 1184044328
+   9.577 Checksum of TrainToggle: 4086829259
+   9.577 Checksum of Train_Ore_Color-016: 0
+   9.577 Checksum of upgrade-planner: 378958687
+   9.577 Checksum of VehicleSnap: 3379580387
+   9.577 Checksum of Warehousing: 2097619569
+   9.577 Checksum of WaterWell: 1379067243
+   9.577 Checksum of ZRecycling: 102699734
+   9.577 Checksum of OutpostPlanner: 2005237985
+   9.950 Difficulty normal: Technology prerequisite 'automation' on 'deadlock-crating-1' is redundant as 'electric-engine' already contains it in its prerequisite tree.
+   9.950 Difficulty normal: Technology prerequisite 'automation' on 'deadlock-crating-1' is redundant as 'stack-inserter' already contains it in its prerequisite tree.
+   9.950 Difficulty normal: Technology prerequisite 'automation-2' on 'deadlock-crating-2' is redundant as 'deadlock-crating-1' already contains it in its prerequisite tree.
+   9.950 Difficulty normal: Technology prerequisite 'logistics-2' on 'logistics-2-upgrade-2' is redundant as 'logistics-2-upgrade-1' already contains it in its prerequisite tree.
+   9.950 Difficulty normal: Technology prerequisite 'logistics-3' on 'logistics-3-upgrade-2' is redundant as 'logistics-3-upgrade-1' already contains it in its prerequisite tree.
+   9.950 Difficulty normal: Technology prerequisite 'logistics' on 'logistics-upgrade-2' is redundant as 'logistics-upgrade-1' already contains it in its prerequisite tree.
+   9.950 Difficulty normal: Technology prerequisite 'steel-processing' on 'pipe-upgrade-2' is redundant as 'plastics' already contains it in its prerequisite tree.
+   9.951 Difficulty normal: Technology prerequisite 'automation-2' on 'pipe-upgrade-3' is redundant as 'fluid-handling' already contains it in its prerequisite tree.
+   9.951 Difficulty normal: Technology prerequisite 'automation-2' on 'pipe-upgrade-3' is redundant as 'logistics-3' already contains it in its prerequisite tree.
+   9.951 Difficulty normal: Technology prerequisite 'automation-3' on 'pipe-upgrade-4' is redundant as 'pipe-upgrade-3' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'automation' on 'deadlock-crating-1' is redundant as 'electric-engine' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'automation' on 'deadlock-crating-1' is redundant as 'stack-inserter' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'automation-2' on 'deadlock-crating-2' is redundant as 'deadlock-crating-1' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'logistics-2' on 'logistics-2-upgrade-2' is redundant as 'logistics-2-upgrade-1' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'logistics-3' on 'logistics-3-upgrade-2' is redundant as 'logistics-3-upgrade-1' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'logistics' on 'logistics-upgrade-2' is redundant as 'logistics-upgrade-1' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'steel-processing' on 'pipe-upgrade-2' is redundant as 'plastics' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'automation-2' on 'pipe-upgrade-3' is redundant as 'fluid-handling' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'automation-2' on 'pipe-upgrade-3' is redundant as 'logistics-3' already contains it in its prerequisite tree.
+   9.951 Difficulty expensive: Technology prerequisite 'automation-3' on 'pipe-upgrade-4' is redundant as 'pipe-upgrade-3' already contains it in its prerequisite tree.
+   9.955 Verbose ModManager.cpp:400: Time to load mods: 9.41069
+  10.011 Loading sounds...
+  10.298 Info PlayerData.cpp:65: Local player-data.json available, timestamp 1523153834
+  10.298 Info PlayerData.cpp:72: Cloud player-data.json unavailable
+  10.577 Loaded shader file /Applications/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+  10.581 Loaded shader file /Applications/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+  10.584 Loaded shader file /Applications/factorio.app/Contents/data/core/graphics/shaders/alpha-mask.glsl
+  10.625 Initial atlas bitmap size is 16384
+  10.630 Created atlas bitmap 16384x7084 [none]
+  10.631 Created atlas bitmap 16384x1100 [shadow]
+  10.631 Created atlas bitmap 16384x1955 [decal]
+  10.631 Created atlas bitmap 8192x1760 [mipmap]
+  10.632 Created atlas bitmap 8192x800 [mipmap, smoke]
+  10.640 Created atlas bitmap 8192x8144 [linear-minification, mipmap, terrain]
+  10.641 Created atlas bitmap 8192x2064 [linear-minification, mipmap, terrain]
+  10.641 Created atlas bitmap 8192x1220 [no-crop, trilinear-filtering, icon, light]
+  10.641 Created atlas bitmap 8192x306 [alpha-mask]
+  29.120 Sprites loaded
+  29.120 Convert atlas 8192x1760 to: mipmap 
+  29.517 Convert atlas 8192x800 to: mipmap 
+  29.759 Convert atlas 8192x8144 to: min-linear 
+  31.624 Convert atlas 8192x2064 to: min-linear 
+  32.153 Convert atlas 8192x1220 to: trilinear-filtering 
+  32.402 Convert atlas 8192x306 to: alpha-mask
+  32.489 Verbose AtlasSystem.cpp:738: Atlas memory size: 1073.20MB
+  32.489 Verbose AtlasSystem.cpp:739: Size of sprites outside of atlas: 303.76MB
+  32.498 Custom inputs active: 63
+  32.502 Info Updater.cpp:751: Downloading https://updater.factorio.com/get-available-versions?username=dougbeal&token=<private>&apiVersion=2
+  42.508 Info Updater.cpp:761: Download failed (Timeout was reached -- Operation timed out after 10001 milliseconds with 0 out of 0 bytes received)
+  42.683 Factorio initialised
+ 101.858 Loading map /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3.zip: 16366255 bytes.
+ 102.179 Loading Level.dat: 40445113 bytes.
+ 102.191 Info Scenario.cpp:136: Map version 0.16.36-2
+ 104.756 Verbose BlueprintLibrary.cpp:234: Loaded library shelves:
+ 104.758 Verbose BlueprintLibrary.cpp:856: Game shelf: playerIndex = 65535, nextRecordID = 192; timestamp = 0; records: (id: 65535, 69; label: "active v5.0", preview: false, empty: false; book [id: 65535, 70; label: "", preview: false, empty: false] [id: 65535, 71; label: "", preview: false, empty: false] [id: 65535, 72; label: "", preview: false, empty: false] [id: 65535, 73; label: "", preview: false, empty: false] [id: 65535, 74; label: "", preview: false, empty: false] [id: 65535, 75; label: "", preview: false, empty: false] [id: 65535, 76; label: "", preview: false, empty: false] [id: 65535, 77; label: "", preview: false, empty: false] [id: 65535, 78; label: "", preview: false, empty: false] [id: 65535, 79; label: "", preview: false, empty: false] [id: 65535, 80; label: "", preview: false, empty: false] [id: 65535, 81; label: "", preview: false, empty: false] [id: 65535, 82; label: "", preview: false, empty: false] [id: 65535, 83; label: "", preview: false, empty: false] [id: 65535, 84; label: "", preview: false, empty: false] [id: 65535, 85; label: "", preview: false, empty: false] [id: 65535, 86; label: "", preview: false, empty: false] [id: 65535, 87; label: "", preview: false, empty: false] [id: 65535, 88; label: "", preview: false, empty: false] [id: 65535, 89; label: "", preview: false, empty: false] [id: 65535, 90; label: "", preview: false, empty: false] [id: 65535, 91; label: "", preview: false, empty: false] [id: 65535, 92; label: "", preview: false, empty: false] [id: 65535, 93; label: "", preview: false, empty: false] [id: 65535, 94; label: "", preview: false, empty: false] [id: 65535, 95; label: "", preview: false, empty: false] [id: 65535, 141; label: "", preview: false, empty: false] [id: 65535, 142; label: "1 Red & Green Science - 2/sec", preview: false, empty: false] [id: 65535, 96; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 65535, 97; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 65535, 98; label: "3 to 3", preview: false, empty: false] [id: 65535, 99; label: "3 to 4", preview: false, empty: false] [id: 65535, 100; label: "4 to 4", preview: false, empty: false] [id: 65535, 140; label: "12. Red Circuits", preview: false, empty: false] [id: 65535, 101; label: "18x18 Solar Array", preview: false, empty: false] [id: 65535, 102; label: "Chunk-aligned Cross", preview: false, empty: false] [id: 65535, 103; label: "Crossing", preview: false, empty: false] [id: 65535, 104; label: "Curve", preview: false, empty: false] [id: 65535, 105; label: "full production", preview: false, empty: false] [id: 65535, 106; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 65535, 107; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 65535, 108; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 65535, 109; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 65535, 110; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 65535, 111; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 65535, 112; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 65535, 113; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 65535, 114; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 65535, 115; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 65535, 116; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 65535, 117; label: "LTN-Bulk-Unload-Rear-B", preview: false, empty: false] [id: 65535, 118; label: "LTN-Depot", preview: false, empty: false] [id: 65535, 119; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 65535, 120; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 65535, 121; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 65535, 122; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 65535, 123; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false] [id: 65535, 124; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false] [id: 65535, 125; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 65535, 126; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 65535, 127; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 65535, 128; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 65535, 129; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 65535, 130; label: "stacked green v2.0", preview: false, empty: false] [id: 65535, 131; label: "Station Exit Left", preview: false, empty: false] [id: 65535, 132; label: "Station Exit Right", preview: false, empty: false] [id: 65535, 133; label: "Station/Depot-Entry-Left", preview: false, empty: false] [id: 65535, 134; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 65535, 135; label: "Straight", preview: false, empty: false] [id: 65535, 136; label: "T-Junction", preview: false, empty: false] [id: 65535, 137; label: "Turn-Arround", preview: false, empty: false] [id: 65535, 138; label: "Waiting Bay", preview: false, empty: false]) (id: 65535, 157; label: "Big Blueprints", preview: false, empty: false; book [id: 65535, 143; label: "WALL - STRAIGHT", preview: false, empty: false] [id: 65535, 144; label: "WALL - STATION", preview: false, empty: false] [id: 65535, 145; label: "WALL - STATION", preview: false, empty: false] [id: 65535, 146; label: "WALL - CORNER", preview: false, empty: false] [id: 65535, 147; label: "4 Reactor Nuclear Power (Belted)", preview: false, empty: false] [id: 65535, 148; label: "Compressed Blue Belt", preview: false, empty: false] [id: 65535, 149; label: "", preview: false, empty: false] [id: 65535, 150; label: "", preview: false, empty: false] [id: 65535, 151; label: "SCIENCE MODULE v4", preview: false, empty: false] [id: 65535, 152; label: "ROCKET MODULE v6", preview: false, empty: false] [id: 65535, 153; label: "2-Stop Loading Station", preview: false, empty: false] [id: 65535, 154; label: "", preview: false, empty: false] [id: 65535, 155; label: "Nuclear LTN Station", preview: false, empty: false] [id: 65535, 156; label: "LTN DEPOT", preview: false, empty: false]) (id: 65535, 158; label: "LTN-Stations L4CL v1.6.2", preview: false, empty: false; book [id: 65535, 159; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 65535, 160; label: "Station/Depot-Entry-Left", preview: false, empty: false] [id: 65535, 161; label: "Station Exit Left", preview: false, empty: false] [id: 65535, 162; label: "Station Exit Right", preview: false, empty: false] [id: 65535, 163; label: "LTN-Bulk-Load-Front-R", preview: false, empty: false] [id: 65535, 164; label: "LTN-Bulk-Load-Rear-R", preview: false, empty: false] [id: 65535, 165; label: "LTN-Bulk-Unload-Front-R", preview: false, empty: false] [id: 65535, 166; label: "LTN-Bulk-Unload-Rear-R", preview: false, empty: false] [id: 65535, 167; label: "R-8-4 Balancer", preview: false, empty: false] [id: 65535, 168; label: "R-8-8 Balancer", preview: false, empty: false] [id: 65535, 169; label: "LTN-3-Unload-Front-R", preview: false, empty: false] [id: 65535, 170; label: "LTN-3-Unload-Rear-R", preview: false, empty: false] [id: 65535, 171; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 65535, 172; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 65535, 173; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 65535, 174; label: "LTN-Bulk-Unload-Rear-B", preview: false, empty: false] [id: 65535, 175; label: "B-8-4 Balancer", preview: false, empty: false] [id: 65535, 176; label: "B-8-8 Balancer", preview: false, empty: false] [id: 65535, 177; label: "LTN-3-Unload-Front-B", preview: false, empty: false] [id: 65535, 178; label: "LTN-3-Unload-Rear-B", preview: false, empty: false] [id: 65535, 179; label: "LTN-Fluid-Load-Full", preview: false, empty: false] [id: 65535, 180; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 65535, 181; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 65535, 182; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 65535, 183; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 65535, 184; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 65535, 185; label: "LTN-Universal-Requester", preview: false, empty: false] [id: 65535, 186; label: "Waiting Bay", preview: false, empty: false] [id: 65535, 187; label: "LTN-Depot", preview: false, empty: false] [id: 65535, 188; label: "LTN-Mine-Outpost-R", preview: false, empty: false] [id: 65535, 189; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 65535, 190; label: "LTN-UraniumOre-Outpost-R", preview: false, empty: false] [id: 65535, 191; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false]) (id: 65535, 0; label: "Red Belt Balancer", preview: false, empty: false; book [id: 65535, 1; label: "1 to 1", preview: false, empty: false] [id: 65535, 2; label: "1 to 2", preview: false, empty: false] [id: 65535, 3; label: "1 to 3", preview: false, empty: false] [id: 65535, 4; label: "1 to 4", preview: false, empty: false] [id: 65535, 5; label: "1 to 5", preview: false, empty: false] [id: 65535, 6; label: "1 to 6", preview: false, empty: false] [id: 65535, 7; label: "1 to 7", preview: false, empty: false] [id: 65535, 8; label: "1 to 8", preview: false, empty: false] [id: 65535, 9; label: "2 to 1", preview: false, empty: false] [id: 65535, 10; label: "2 to 2", preview: false, empty: false] [id: 65535, 11; label: "2 to 3 (Long)", preview: false, empty: false] [id: 65535, 12; label: "2 to 3", preview: false, empty: false] [id: 65535, 13; label: "2 to 4", preview: false, empty: false] [id: 65535, 14; label: "2 to 5", preview: false, empty: false] [id: 65535, 15; label: "2 to 6", preview: false, empty: false] [id: 65535, 16; label: "2 to 7", preview: false, empty: false] [id: 65535, 17; label: "2 to 8", preview: false, empty: false] [id: 65535, 18; label: "3 to 1", preview: false, empty: false] [id: 65535, 19; label: "3 to 2", preview: false, empty: false] [id: 65535, 20; label: "3 to 3", preview: false, empty: false] [id: 65535, 21; label: "3 to 4", preview: false, empty: false] [id: 65535, 22; label: "3 to 5", preview: false, empty: false] [id: 65535, 23; label: "3 to 6", preview: false, empty: false] [id: 65535, 24; label: "3 to 7", preview: false, empty: false] [id: 65535, 25; label: "3 to 8", preview: false, empty: false] [id: 65535, 26; label: "4 to 1", preview: false, empty: false] [id: 65535, 27; label: "4 to 2", preview: false, empty: false] [id: 65535, 28; label: "4 to 3", preview: false, empty: false] [id: 65535, 29; label: "4 to 4", preview: false, empty: false] [id: 65535, 30; label: "4 to 5", preview: false, empty: false] [id: 65535, 31; label: "4 to 6", preview: false, empty: false] [id: 65535, 32; label: "4 to 7", preview: false, empty: false] [id: 65535, 33; label: "4 to 8", preview: false, empty: false] [id: 65535, 34; label: "5 to 1", preview: false, empty: false] [id: 65535, 35; label: "5 to 2", preview: false, empty: false] [id: 65535, 36; label: "5 to 3", preview: false, empty: false] [id: 65535, 37; label: "5 to 4", preview: false, empty: false] [id: 65535, 38; label: "5 to 5", preview: false, empty: false] [id: 65535, 39; label: "5 to 6", preview: false, empty: false] [id: 65535, 40; label: "5 to 7", preview: false, empty: false] [id: 65535, 41; label: "5 to 8", preview: false, empty: false] [id: 65535, 42; label: "6 to 1", preview: false, empty: false] [id: 65535, 43; label: "6 to 2", preview: false, empty: false] [id: 65535, 44; label: "6 to 3", preview: false, empty: false] [id: 65535, 45; label: "6 to 4", preview: false, empty: false] [id: 65535, 46; label: "6 to 5", preview: false, empty: false] [id: 65535, 47; label: "6 to 6", preview: false, empty: false] [id: 65535, 48; label: "6 to 7", preview: false, empty: false] [id: 65535, 49; label: "6 to 8", preview: false, empty: false] [id: 65535, 50; label: "7 to 1", preview: false, empty: false] [id: 65535, 51; label: "7 to 2", preview: false, empty: false] [id: 65535, 52; label: "7 to 3", preview: false, empty: false] [id: 65535, 53; label: "7 to 4", preview: false, empty: false] [id: 65535, 54; label: "7 to 5", preview: false, empty: false] [id: 65535, 55; label: "7 to 6", preview: false, empty: false] [id: 65535, 56; label: "7 to 7", preview: false, empty: false] [id: 65535, 57; label: "7 to 8", preview: false, empty: false] [id: 65535, 58; label: "8 to 1", preview: false, empty: false] [id: 65535, 59; label: "8 to 2", preview: false, empty: false] [id: 65535, 60; label: "8 to 3", preview: false, empty: false] [id: 65535, 61; label: "8 to 4", preview: false, empty: false] [id: 65535, 62; label: "8 to 5", preview: false, empty: false] [id: 65535, 63; label: "8 to 6", preview: false, empty: false] [id: 65535, 64; label: "8 to 7", preview: false, empty: false] [id: 65535, 65; label: "8 to 8", preview: false, empty: false]
+ 104.762 Verbose BlueprintLibrary.cpp:858: Player shelf: playerIndex = 0, nextRecordID = 777; timestamp = 1523143828; records: (id: 0, 446; label: "a2 power v7", preview: false, empty: false; book [id: 0, 436; label: "2. Steam Power (4 Boilers+8 Engines)", preview: false, empty: false] [id: 0, 437; label: "", preview: false, empty: false] [id: 0, 438; label: "", preview: false, empty: false] [id: 0, 439; label: "", preview: false, empty: false] [id: 0, 440; label: "", preview: false, empty: false] [id: 0, 441; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 443; label: "", preview: false, empty: false] [id: 0, 444; label: "", preview: false, empty: false] [id: 0, 445; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false]) (id: 0, 478; label: "a3 - mine - v3", preview: false, empty: false; book [id: 0, 467; label: "3. Basic Mining", preview: false, empty: false] [id: 0, 468; label: "3. Basic Smelting", preview: false, empty: false] [id: 0, 469; label: "3. Basic Steel Smelting", preview: false, empty: false] [id: 0, 470; label: "", preview: false, empty: false] [id: 0, 471; label: "", preview: false, empty: false] [id: 0, 472; label: "", preview: false, empty: false] [id: 0, 473; label: "", preview: false, empty: false] [id: 0, 474; label: "", preview: false, empty: false] [id: 0, 475; label: "", preview: false, empty: false] [id: 0, 476; label: "", preview: false, empty: false] [id: 0, 477; label: "mis-02-steel-furance-rhs", preview: false, empty: false]) (id: 0, 466; label: "a5 r/g science green circuits", preview: false, empty: false; book [id: 0, 463; label: "6. Green Circuits", preview: false, empty: false] [id: 0, 464; label: "5. Red/Green Science", preview: false, empty: false] [id: 0, 465; label: "5. Science Labs", preview: false, empty: false]) (id: 0, 596; label: "active v2.0", preview: false, empty: false; book [id: 0, 572; label: "", preview: false, empty: false] [id: 0, 573; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 574; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 575; label: "", preview: false, empty: false] [id: 0, 576; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 577; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 578; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 579; label: "", preview: false, empty: false] [id: 0, 580; label: "", preview: false, empty: false] [id: 0, 581; label: "", preview: false, empty: false] [id: 0, 582; label: "", preview: false, empty: false] [id: 0, 583; label: "", preview: false, empty: false] [id: 0, 584; label: "", preview: false, empty: false] [id: 0, 585; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 586; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 587; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 588; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 589; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 590; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 591; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 592; label: "", preview: false, empty: false] [id: 0, 593; label: "", preview: false, empty: false] [id: 0, 594; label: "", preview: false, empty: false] [id: 0, 595; label: "", preview: false, empty: false]) (id: 0, 635; label: "active v3.0", preview: false, empty: false; book [id: 0, 598; label: "", preview: false, empty: false] [id: 0, 599; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 600; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 601; label: "", preview: false, empty: false] [id: 0, 602; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 603; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 604; label: "", preview: false, empty: false] [id: 0, 605; label: "", preview: false, empty: false] [id: 0, 606; label: "", preview: false, empty: false] [id: 0, 607; label: "", preview: false, empty: false] [id: 0, 608; label: "", preview: false, empty: false] [id: 0, 609; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 610; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 611; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 612; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 613; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 614; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 615; label: "", preview: false, empty: false] [id: 0, 616; label: "", preview: false, empty: false] [id: 0, 617; label: "", preview: false, empty: false] [id: 0, 618; label: "", preview: false, empty: false] [id: 0, 619; label: "", preview: false, empty: false] [id: 0, 620; label: "", preview: false, empty: false] [id: 0, 621; label: "", preview: false, empty: false] [id: 0, 622; label: "", preview: false, empty: false] [id: 0, 623; label: "", preview: false, empty: false] [id: 0, 624; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 625; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false] [id: 0, 626; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 627; label: "Crossing", preview: false, empty: false] [id: 0, 628; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 629; label: "3 to 3", preview: false, empty: false] [id: 0, 630; label: "3 to 4", preview: false, empty: false] [id: 0, 631; label: "4 to 4", preview: false, empty: false] [id: 0, 632; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false] [id: 0, 633; label: "", preview: false, empty: false] [id: 0, 634; label: "", preview: false, empty: false]) (id: 0, 690; label: "active v4.0", preview: false, empty: false; book [id: 0, 636; label: "", preview: false, empty: false] [id: 0, 637; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 638; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 639; label: "", preview: false, empty: false] [id: 0, 640; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 641; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 642; label: "", preview: false, empty: false] [id: 0, 643; label: "", preview: false, empty: false] [id: 0, 644; label: "", preview: false, empty: false] [id: 0, 645; label: "", preview: false, empty: false] [id: 0, 646; label: "", preview: false, empty: false] [id: 0, 647; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 648; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 649; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 650; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 651; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 652; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 653; label: "", preview: false, empty: false] [id: 0, 654; label: "", preview: false, empty: false] [id: 0, 655; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 656; label: "", preview: false, empty: false] [id: 0, 657; label: "", preview: false, empty: false] [id: 0, 658; label: "", preview: false, empty: false] [id: 0, 659; label: "", preview: false, empty: false] [id: 0, 660; label: "", preview: false, empty: false] [id: 0, 661; label: "", preview: false, empty: false] [id: 0, 662; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 663; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 664; label: "Crossing", preview: false, empty: false] [id: 0, 665; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 666; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false] [id: 0, 667; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 0, 668; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 0, 669; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 0, 670; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 0, 671; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 0, 672; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 0, 673; label: "", preview: false, empty: false] [id: 0, 674; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 0, 675; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 0, 676; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 0, 677; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 0, 678; label: "3 to 3", preview: false, empty: false] [id: 0, 679; label: "3 to 4", preview: false, empty: false] [id: 0, 680; label: "4 to 4", preview: false, empty: false] [id: 0, 681; label: "", preview: false, empty: false] [id: 0, 682; label: "full production", preview: false, empty: false] [id: 0, 683; label: "", preview: false, empty: false] [id: 0, 684; label: "", preview: false, empty: false] [id: 0, 685; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false] [id: 0, 686; label: "", preview: false, empty: false] [id: 0, 687; label: "", preview: false, empty: false] [id: 0, 688; label: "", preview: false, empty: false] [id: 0, 689; label: "", preview: false, empty: false]) (id: 0, 758; label: "active v5.0", preview: false, empty: false; book [id: 0, 691; label: "", preview: false, empty: false] [id: 0, 694; label: "", preview: false, empty: false] [id: 0, 697; label: "", preview: false, empty: false] [id: 0, 698; label: "", preview: false, empty: false] [id: 0, 699; label: "", preview: false, empty: false] [id: 0, 700; label: "", preview: false, empty: false] [id: 0, 701; label: "", preview: false, empty: false] [id: 0, 708; label: "", preview: false, empty: false] [id: 0, 709; label: "", preview: false, empty: false] [id: 0, 711; label: "", preview: false, empty: false] [id: 0, 712; label: "", preview: false, empty: false] [id: 0, 713; label: "", preview: false, empty: false] [id: 0, 714; label: "", preview: false, empty: false] [id: 0, 715; label: "", preview: false, empty: false] [id: 0, 716; label: "", preview: false, empty: false] [id: 0, 728; label: "", preview: false, empty: false] [id: 0, 742; label: "", preview: false, empty: false] [id: 0, 744; label: "", preview: false, empty: false] [id: 0, 745; label: "", preview: false, empty: false] [id: 0, 747; label: "", preview: false, empty: false] [id: 0, 748; label: "", preview: false, empty: false] [id: 0, 749; label: "", preview: false, empty: false] [id: 0, 750; label: "", preview: false, empty: false] [id: 0, 752; label: "", preview: false, empty: false] [id: 0, 757; label: "", preview: false, empty: false] [id: 0, 760; label: "", preview: false, empty: false] [id: 0, 704; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 703; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 739; label: "3 to 3", preview: false, empty: false] [id: 0, 740; label: "3 to 4", preview: false, empty: false] [id: 0, 741; label: "4 to 4", preview: false, empty: false] [id: 0, 717; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 754; label: "Chunk-aligned Cross", preview: false, empty: false] [id: 0, 719; label: "Crossing", preview: false, empty: false] [id: 0, 755; label: "Curve", preview: false, empty: false] [id: 0, 743; label: "full production", preview: false, empty: false] [id: 0, 707; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 710; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 720; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 718; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 695; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 696; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 724; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 0, 723; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 0, 736; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 0, 735; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 0, 737; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 0, 738; label: "LTN-Bulk-Unload-Rear-B", preview: false, empty: false] [id: 0, 734; label: "LTN-Depot", preview: false, empty: false] [id: 0, 722; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 0, 725; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 0, 727; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 0, 726; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 0, 721; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false] [id: 0, 746; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false] [id: 0, 692; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 702; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 705; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 706; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 693; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 761; label: "stacked green v2.0", preview: false, empty: false] [id: 0, 731; label: "Station Exit Left", preview: false, empty: false] [id: 0, 729; label: "Station Exit Right", preview: false, empty: false] [id: 0, 733; label: "Station/Depot-Entry-Left", preview: false, empty: false] [id: 0, 732; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 0, 751; label: "Straight", preview: false, empty: false] [id: 0, 753; label: "T-Junction", preview: false, empty: false] [id: 0, 756; label: "Turn-Arround", preview: false, empty: false] [id: 0, 730; label: "Waiting Bay", preview: false, empty: false]) (id: 0, 421; label: "Base-in-a-Book 2. Steam Power v5", preview: false, empty: false; book [id: 0, 415; label: "", preview: false, empty: false] [id: 0, 416; label: "", preview: false, empty: false] [id: 0, 417; label: "", preview: false, empty: false] [id: 0, 418; label: "", preview: false, empty: false] [id: 0, 422; label: "", preview: false, empty: false] [id: 0, 414; label: "2. Steam Power (4 Boilers+8 Engines)", preview: false, empty: false] [id: 0, 419; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 420; label: "s_nuclear_reactor_4", preview: false, empty: false]) (id: 0, 399; label: "Base-in-a-Book 3. Basic Mining and Smelting 4.0", preview: false, empty: false; book [id: 0, 392; label: "3. Basic Mining", preview: false, empty: false] [id: 0, 393; label: "3. Basic Smelting", preview: false, empty: false] [id: 0, 394; label: "3. Basic Steel Smelting", preview: false, empty: false] [id: 0, 395; label: "", preview: false, empty: false] [id: 0, 396; label: "", preview: false, empty: false] [id: 0, 397; label: "", preview: false, empty: false] [id: 0, 398; label: "", preview: false, empty: false]) (id: 0, 335; label: "Base-in-a-Book 4. Main Bus", preview: false, empty: false; book [id: 0, 330; label: "4. Main Bus - Full line", preview: false, empty: false] [id: 0, 331; label: "4. Main Bus - Half line", preview: false, empty: false] [id: 0, 332; label: "4. Main Bus - Middle Half line", preview: false, empty: false] [id: 0, 333; label: "4. Main Bus - Half line One sided", preview: false, empty: false] [id: 0, 334; label: "4. Main Bus - 4x4 Balancer", preview: false, empty: false]) (id: 0, 344; label: "Base-in-a-Book 5. Red/Green Science", preview: false, empty: false; book [id: 0, 342; label: "5. Red/Green Science", preview: false, empty: false] [id: 0, 343; label: "5. Science Labs", preview: false, empty: false]) (id: 0, 346; label: "Base-in-a-Book 6. Green Circuits", preview: false, empty: false; book [id: 0, 759; label: "", preview: false, empty: false] [id: 0, 345; label: "6. Green Circuits", preview: false, empty: false]) (id: 0, 353; label: "Base-in-a-Book 7. Logistics Mall", preview: false, empty: false; book [id: 0, 351; label: "7. Logistics Mall (Early Game)", preview: false, empty: false] [id: 0, 352; label: "7. Logistics Mall (Late Game)", preview: false, empty: false]) (id: 0, 359; label: "Base-in-a-Book 8. Build Everything", preview: false, empty: false; book [id: 0, 354; label: "8. Production Shop", preview: false, empty: false] [id: 0, 355; label: "8. Train Shop", preview: false, empty: false] [id: 0, 356; label: "8. Circuit Network Shop", preview: false, empty: false] [id: 0, 357; label: "8. High Tech Shop", preview: false, empty: false] [id: 0, 358; label: "8. Nuclear Shop", preview: false, empty: false]) (id: 0, 370; label: "Base-in-a-Book 9. Military Science", preview: false, empty: false; book [id: 0, 365; label: "9. Armor Piercing Rounds", preview: false, empty: false] [id: 0, 366; label: "9. Grenades", preview: false, empty: false] [id: 0, 367; label: "9. Gun Turret", preview: false, empty: false] [id: 0, 368; label: "9. Military Science", preview: false, empty: false] [id: 0, 369; label: "9. Modular Military Science", preview: false, empty: false]) (id: 0, 363; label: "Base-in-a-Book 10. Oil Processing", preview: false, empty: false; book [id: 0, 360; label: "10. Basic Oil Processing", preview: false, empty: false] [id: 0, 361; label: "10. Advanced Oil Processing", preview: false, empty: false] [id: 0, 362; label: "10. Beaconed Advanced Oil Processing", preview: false, empty: false]) (id: 0, 131; label: "Base-in-a-Book 11. Plastic and Sulfuric Acid", preview: false, empty: false; book [id: 0, 129; label: "11. Plastic", preview: false, empty: false] [id: 0, 130; label: "11. Sulfuric Acid", preview: false, empty: false]) (id: 0, 128; label: "Base-in-a-Book 12. Red Circuits", preview: false, empty: false; book [id: 0, 126; label: "12. Red Circuits", preview: false, empty: false] [id: 0, 127; label: "12. Red Circuits (Blue Belt)", preview: false, empty: false]) (id: 0, 374; label: "Base-in-a-Book 13. Engines and Blue Science", preview: false, empty: false; book [id: 0, 371; label: "13. Engines", preview: false, empty: false] [id: 0, 372; label: "13. Electric Mining Drills", preview: false, empty: false] [id: 0, 373; label: "13. Blue Science", preview: false, empty: false]) (id: 0, 391; label: "Base-in-a-Book 14. Electric Engines and Purple Science", preview: false, empty: false; book [id: 0, 387; label: "14. Electric Engines", preview: false, empty: false] [id: 0, 388; label: "14. Electric Furnace", preview: false, empty: false] [id: 0, 389; label: "14. Assembling Machine", preview: false, empty: false] [id: 0, 390; label: "14. Purple Science", preview: false, empty: false]) (id: 0, 402; label: "Base-in-a-Book 15. Blue Circuits (2 Blue Belts)", preview: false, empty: false; book [id: 0, 400; label: "Blue Circuit Module (2 Red Belts)", preview: false, empty: false] [id: 0, 401; label: "15. Blue Circuits (2 Blue Belts)", preview: false, empty: false]) (id: 0, 776; label: "Big Blueprints", preview: false, empty: false; book [id: 0, 762; label: "WALL - STRAIGHT", preview: false, empty: false] [id: 0, 763; label: "WALL - STATION", preview: false, empty: false] [id: 0, 764; label: "WALL - STATION", preview: false, empty: false] [id: 0, 765; label: "WALL - CORNER", preview: false, empty: false] [id: 0, 766; label: "4 Reactor Nuclear Power (Belted)", preview: false, empty: false] [id: 0, 767; label: "Compressed Blue Belt", preview: false, empty: false] [id: 0, 768; label: "", preview: false, empty: false] [id: 0, 769; label: "", preview: false, empty: false] [id: 0, 770; label: "SCIENCE MODULE v4", preview: false, empty: false] [id: 0, 771; label: "ROCKET MODULE v6", preview: false, empty: false] [id: 0, 772; label: "2-Stop Loading Station", preview: false, empty: false] [id: 0, 773; label: "", preview: false, empty: false] [id: 0, 774; label: "Nuclear LTN Station", preview: false, empty: false] [id: 0, 775; label: "LTN DEPOT", preview: false, empty: false]) (id: 0, 309; label: "cir 2.0", preview: false, empty: false; book [id: 0, 308; label: "Compact processing units complex (mid-late game)", preview: false, empty: false] [id: 0, 174; label: "Electronics - Stage 3", preview: false, empty: false] [id: 0, 9; label: "Fast Advanced Circuit v1 - mindriot", preview: false, empty: false] [id: 0, 0; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 12; label: "Purp. Circuit Begin", preview: false, empty: false] [id: 0, 13; label: "Purp. Circuit Tile", preview: false, empty: false] [id: 0, 1; label: "redCircuit", preview: false, empty: false]) (id: 0, 312; label: "droneport v1.0", preview: false, empty: false; book [id: 0, 310; label: "", preview: false, empty: false] [id: 0, 311; label: "", preview: false, empty: false]) (id: 0, 102; label: "Gun Walls (Clockwise)", preview: false, empty: false; book [id: 0, 86; label: "Ammo 1", preview: false, empty: false] [id: 0, 87; label: "Ammo 2 - Piercing", preview: false, empty: false] [id: 0, 88; label: "Ammo 3 - Uranium", preview: false, empty: false] [id: 0, 89; label: "Corner Large", preview: false, empty: false] [id: 0, 90; label: "Corner Small", preview: false, empty: false] [id: 0, 91; label: "Diagonal (1)", preview: false, empty: false] [id: 0, 92; label: "Diagonal (3)", preview: false, empty: false] [id: 0, 93; label: "Left (1)", preview: false, empty: false] [id: 0, 94; label: "Left (3)", preview: false, empty: false] [id: 0, 95; label: "Right (1)", preview: false, empty: false] [id: 0, 96; label: "Right (3)", preview: false, empty: false] [id: 0, 97; label: "Straight (1)", preview: false, empty: false] [id: 0, 98; label: "Straight (3)", preview: false, empty: false] [id: 0, 99; label: "Straight Heavy (1)", preview: false, empty: false] [id: 0, 100; label: "Straight Heavy (3)", preview: false, empty: false] [id: 0, 101; label: "z Outpost - Heavy Defense", preview: false, empty: false]) (id: 0, 492; label: "KoS Early Game", preview: false, empty: false; book [id: 0, 479; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 480; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 481; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 482; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 483; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 484; label: "Smelting - 48x Stone (lt)", preview: false, empty: false] [id: 0, 485; label: "Smelting - 48x Stone (rt)", preview: false, empty: false] [id: 0, 486; label: "Smelting - Steel - 96x Steel F (lt)", preview: false, empty: false] [id: 0, 487; label: "Smelting - Steel - 96x Steel F (rt)", preview: false, empty: false] [id: 0, 488; label: "Smelting - Steel - 96x Stone F (lt)", preview: false, empty: false] [id: 0, 489; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 490; label: "Starter Base (KoS Minimall)", preview: false, empty: false] [id: 0, 491; label: "Starter Base (modified from Antielitz's design)", preview: false, empty: false]) (id: 0, 527; label: "KoS Mall - Early & Late Game", preview: false, empty: false; book [id: 0, 525; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 526; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false]) (id: 0, 514; label: "KoS Science", preview: false, empty: false; book [id: 0, 507; label: "1 Red & Green Science - 2/sec", preview: false, empty: false] [id: 0, 508; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 509; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 510; label: "Beaconed Labs", preview: false, empty: false] [id: 0, 511; label: "Beaconed Labs", preview: false, empty: false] [id: 0, 512; label: "Labs with belt braiding blue-red", preview: false, empty: false] [id: 0, 513; label: "Labs with belt braiding yellow-red", preview: false, empty: false]) (id: 0, 571; label: "LTN-Stations L4CL v1.6.2", preview: false, empty: false; book [id: 0, 538; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 0, 539; label: "Station/Depot-Entry-Left", preview: false, empty: false] [id: 0, 540; label: "Station Exit Left", preview: false, empty: false] [id: 0, 541; label: "Station Exit Right", preview: false, empty: false] [id: 0, 542; label: "LTN-Bulk-Load-Front-R", preview: false, empty: false] [id: 0, 543; label: "LTN-Bulk-Load-Rear-R", preview: false, empty: false] [id: 0, 544; label: "LTN-Bulk-Unload-Front-R", preview: false, empty: false] [id: 0, 545; label: "LTN-Bulk-Unload-Rear-R", preview: false, empty: false] [id: 0, 546; label: "R-8-4 Balancer", preview: false, empty: false] [id: 0, 547; label: "R-8-8 Balancer", preview: false, empty: false] [id: 0, 548; label: "LTN-3-Unload-Front-R", preview: false, empty: false] [id: 0, 549; label: "LTN-3-Unload-Rear-R", preview: false, empty: false] [id: 0, 550; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 0, 551; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 0, 552; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 0, 553; label: "LTN-Bulk-Unload-Rear-B", preview: false, empty: false] [id: 0, 554; label: "B-8-4 Balancer", preview: false, empty: false] [id: 0, 555; label: "B-8-8 Balancer", preview: false, empty: false] [id: 0, 556; label: "LTN-3-Unload-Front-B", preview: false, empty: false] [id: 0, 557; label: "LTN-3-Unload-Rear-B", preview: false, empty: false] [id: 0, 558; label: "LTN-Fluid-Load-Full", preview: false, empty: false] [id: 0, 559; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 0, 560; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 0, 561; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 0, 562; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 0, 563; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 0, 564; label: "LTN-Universal-Requester", preview: false, empty: false] [id: 0, 565; label: "Waiting Bay", preview: false, empty: false] [id: 0, 566; label: "LTN-Depot", preview: false, empty: false] [id: 0, 567; label: "LTN-Mine-Outpost-R", preview: false, empty: false] [id: 0, 568; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 0, 569; label: "LTN-UraniumOre-Outpost-R", preview: false, empty: false] [id: 0, 570; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false]) (id: 0, 524; label: "Rail", preview: false, empty: false; book [id: 0, 424; label: "Celtic Knot Intersection (RHD)", preview: false, empty: false]) (id: 0, 536; label: "Railways v1.3 Red/Green Wires", preview: false, empty: false; book [id: 0, 530; label: "Straight", preview: false, empty: false] [id: 0, 531; label: "Curve", preview: false, empty: false] [id: 0, 532; label: "Turn-Arround", preview: false, empty: false] [id: 0, 533; label: "T-Junction", preview: false, empty: false] [id: 0, 534; label: "Chunk-aligned Cross", preview: false, empty: false] [id: 0, 535; label: "Crossing", preview: false, empty: false]) (id: 0, 240; label: "Red Belt Balancer", preview: false, empty: false; book [id: 0, 175; label: "1 to 1", preview: false, empty: false] [id: 0, 176; label: "1 to 2", preview: false, empty: false] [id: 0, 177; label: "1 to 3", preview: false, empty: false] [id: 0, 178; label: "1 to 4", preview: false, empty: false] [id: 0, 179; label: "1 to 5", preview: false, empty: false] [id: 0, 180; label: "1 to 6", preview: false, empty: false] [id: 0, 181; label: "1 to 7", preview: false, empty: false] [id: 0, 182; label: "1 to 8", preview: false, empty: false] [id: 0, 183; label: "2 to 1", preview: false, empty: false] [id: 0, 184; label: "2 to 2", preview: false, empty: false] [id: 0, 185; label: "2 to 3 (Long)", preview: false, empty: false] [id: 0, 186; label: "2 to 3", preview: false, empty: false] [id: 0, 187; label: "2 to 4", preview: false, empty: false] [id: 0, 188; label: "2 to 5", preview: false, empty: false] [id: 0, 189; label: "2 to 6", preview: false, empty: false] [id: 0, 190; label: "2 to 7", preview: false, empty: false] [id: 0, 191; label: "2 to 8", preview: false, empty: false] [id: 0, 192; label: "3 to 1", preview: false, empty: false] [id: 0, 193; label: "3 to 2", preview: false, empty: false] [id: 0, 194; label: "3 to 3", preview: false, empty: false] [id: 0, 195; label: "3 to 4", preview: false, empty: false] [id: 0, 196; label: "3 to 5", preview: false, empty: false] [id: 0, 197; label: "3 to 6", preview: false, empty: false] [id: 0, 198; label: "3 to 7", preview: false, empty: false] [id: 0, 199; label: "3 to 8", preview: false, empty: false] [id: 0, 200; label: "4 to 1", preview: false, empty: false] [id: 0, 201; label: "4 to 2", preview: false, empty: false] [id: 0, 202; label: "4 to 3", preview: false, empty: false] [id: 0, 203; label: "4 to 4", preview: false, empty: false] [id: 0, 204; label: "4 to 5", preview: false, empty: false] [id: 0, 205; label: "4 to 6", preview: false, empty: false] [id: 0, 206; label: "4 to 7", preview: false, empty: false] [id: 0, 207; label: "4 to 8", preview: false, empty: false] [id: 0, 208; label: "5 to 1", preview: false, empty: false] [id: 0, 209; label: "5 to 2", preview: false, empty: false] [id: 0, 210; label: "5 to 3", preview: false, empty: false] [id: 0, 211; label: "5 to 4", preview: false, empty: false] [id: 0, 212; label: "5 to 5", preview: false, empty: false] [id: 0, 213; label: "5 to 6", preview: false, empty: false] [id: 0, 214; label: "5 to 7", preview: false, empty: false] [id: 0, 215; label: "5 to 8", preview: false, empty: false] [id: 0, 216; label: "6 to 1", preview: false, empty: false] [id: 0, 217; label: "6 to 2", preview: false, empty: false] [id: 0, 218; label: "6 to 3", preview: false, empty: false] [id: 0, 219; label: "6 to 4", preview: false, empty: false] [id: 0, 220; label: "6 to 5", preview: false, empty: false] [id: 0, 221; label: "6 to 6", preview: false, empty: false] [id: 0, 222; label: "6 to 7", preview: false, empty: false] [id: 0, 223; label: "6 to 8", preview: false, empty: false] [id: 0, 224; label: "7 to 1", preview: false, empty: false] [id: 0, 225; label: "7 to 2", preview: false, empty: false] [id: 0, 226; label: "7 to 3", preview: false, empty: false] [id: 0, 227; label: "7 to 4", preview: false, empty: false] [id: 0, 228; label: "7 to 5", preview: false, empty: false] [id: 0, 229; label: "7 to 6", preview: false, empty: false] [id: 0, 230; label: "7 to 7", preview: false, empty: false] [id: 0, 231; label: "7 to 8", preview: false, empty: false] [id: 0, 232; label: "8 to 1", preview: false, empty: false] [id: 0, 233; label: "8 to 2", preview: false, empty: false] [id: 0, 234; label: "8 to 3", preview: false, empty: false] [id: 0, 235; label: "8 to 4", preview: false, empty: false] [id: 0, 236; label: "8 to 5", preview: false, empty: false] [id: 0, 237; label: "8 to 6", preview: false, empty: false] [id: 0, 238; label: "8 to 7", preview: false, empty: false] [id: 0, 239; label: "8 to 8", preview: false, empty: false]) (id: 0, 8; label: "18x18 Solar Array", preview: false, empty: false; single) (id: 0, 16; label: "Balanced Gas from Coal Liquefaction", preview: false, empty: false; single) (id: 0, 103; label: "boiler", preview: false, empty: false; single) (id: 0, 173; label: "Coal liquefaction to plastic", preview: false, empty: false; single) (id: 0, 597; label: "Compact Circuits Block", preview: false, empty: false; single) (id: 0, 10; label: "electric furnace", preview: false, empty: false; single) (id: 0, 313; label: "Green Circuits (Compressed)", preview: false, empty: false; single) (id: 0, 523; label: "KoS - Furnaces  - Beaconed (Late Game)", preview: false, empty: false; single) (id: 0, 537; label: "LTN Depot (6 carriages)", preview: false, empty: false; single) (id: 0, 462; label: "nanobots", preview: false, empty: false; single) (id: 0, 459; label: "Oil MK1", preview: false, empty: false; single) (id: 0, 529; label: "Rails - Straight", preview: false, empty: false; single) (id: 0, 403; label: "red-beacon", preview: false, empty: false; single) (id: 0, 406; label: "s_nuclear_reactor_4", preview: false, empty: false; single
+ 104.779 Verbose Scenario.cpp:144: Loading level.dat finished: 2.588404 seconds.
+ 106.481 Verbose BlueprintLibrary.cpp:53: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 777; timestamp = 1523143828; records: (id: 0, 446; label: "a2 power v7", preview: false, empty: false; book [id: 0, 436; label: "2. Steam Power (4 Boilers+8 Engines)", preview: false, empty: false] [id: 0, 437; label: "", preview: false, empty: false] [id: 0, 438; label: "", preview: false, empty: false] [id: 0, 439; label: "", preview: false, empty: false] [id: 0, 440; label: "", preview: false, empty: false] [id: 0, 441; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 443; label: "", preview: false, empty: false] [id: 0, 444; label: "", preview: false, empty: false] [id: 0, 445; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false]) (id: 0, 478; label: "a3 - mine - v3", preview: false, empty: false; book [id: 0, 467; label: "3. Basic Mining", preview: false, empty: false] [id: 0, 468; label: "3. Basic Smelting", preview: false, empty: false] [id: 0, 469; label: "3. Basic Steel Smelting", preview: false, empty: false] [id: 0, 470; label: "", preview: false, empty: false] [id: 0, 471; label: "", preview: false, empty: false] [id: 0, 472; label: "", preview: false, empty: false] [id: 0, 473; label: "", preview: false, empty: false] [id: 0, 474; label: "", preview: false, empty: false] [id: 0, 475; label: "", preview: false, empty: false] [id: 0, 476; label: "", preview: false, empty: false] [id: 0, 477; label: "mis-02-steel-furance-rhs", preview: false, empty: false]) (id: 0, 466; label: "a5 r/g science green circuits", preview: false, empty: false; book [id: 0, 463; label: "6. Green Circuits", preview: false, empty: false] [id: 0, 464; label: "5. Red/Green Science", preview: false, empty: false] [id: 0, 465; label: "5. Science Labs", preview: false, empty: false]) (id: 0, 596; label: "active v2.0", preview: false, empty: false; book [id: 0, 572; label: "", preview: false, empty: false] [id: 0, 573; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 574; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 575; label: "", preview: false, empty: false] [id: 0, 576; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 577; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 578; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 579; label: "", preview: false, empty: false] [id: 0, 580; label: "", preview: false, empty: false] [id: 0, 581; label: "", preview: false, empty: false] [id: 0, 582; label: "", preview: false, empty: false] [id: 0, 583; label: "", preview: false, empty: false] [id: 0, 584; label: "", preview: false, empty: false] [id: 0, 585; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 586; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 587; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 588; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 589; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 590; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 591; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 592; label: "", preview: false, empty: false] [id: 0, 593; label: "", preview: false, empty: false] [id: 0, 594; label: "", preview: false, empty: false] [id: 0, 595; label: "", preview: false, empty: false]) (id: 0, 635; label: "active v3.0", preview: false, empty: false; book [id: 0, 598; label: "", preview: false, empty: false] [id: 0, 599; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 600; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 601; label: "", preview: false, empty: false] [id: 0, 602; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 603; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 604; label: "", preview: false, empty: false] [id: 0, 605; label: "", preview: false, empty: false] [id: 0, 606; label: "", preview: false, empty: false] [id: 0, 607; label: "", preview: false, empty: false] [id: 0, 608; label: "", preview: false, empty: false] [id: 0, 609; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 610; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 611; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 612; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 613; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 614; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 615; label: "", preview: false, empty: false] [id: 0, 616; label: "", preview: false, empty: false] [id: 0, 617; label: "", preview: false, empty: false] [id: 0, 618; label: "", preview: false, empty: false] [id: 0, 619; label: "", preview: false, empty: false] [id: 0, 620; label: "", preview: false, empty: false] [id: 0, 621; label: "", preview: false, empty: false] [id: 0, 622; label: "", preview: false, empty: false] [id: 0, 623; label: "", preview: false, empty: false] [id: 0, 624; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 625; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false] [id: 0, 626; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 627; label: "Crossing", preview: false, empty: false] [id: 0, 628; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 629; label: "3 to 3", preview: false, empty: false] [id: 0, 630; label: "3 to 4", preview: false, empty: false] [id: 0, 631; label: "4 to 4", preview: false, empty: false] [id: 0, 632; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false] [id: 0, 633; label: "", preview: false, empty: false] [id: 0, 634; label: "", preview: false, empty: false]) (id: 0, 690; label: "active v4.0", preview: false, empty: false; book [id: 0, 636; label: "", preview: false, empty: false] [id: 0, 637; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 638; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 639; label: "", preview: false, empty: false] [id: 0, 640; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 641; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 642; label: "", preview: false, empty: false] [id: 0, 643; label: "", preview: false, empty: false] [id: 0, 644; label: "", preview: false, empty: false] [id: 0, 645; label: "", preview: false, empty: false] [id: 0, 646; label: "", preview: false, empty: false] [id: 0, 647; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 648; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 649; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 650; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 651; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 652; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 653; label: "", preview: false, empty: false] [id: 0, 654; label: "", preview: false, empty: false] [id: 0, 655; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 656; label: "", preview: false, empty: false] [id: 0, 657; label: "", preview: false, empty: false] [id: 0, 658; label: "", preview: false, empty: false] [id: 0, 659; label: "", preview: false, empty: false] [id: 0, 660; label: "", preview: false, empty: false] [id: 0, 661; label: "", preview: false, empty: false] [id: 0, 662; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 663; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 664; label: "Crossing", preview: false, empty: false] [id: 0, 665; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 666; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false] [id: 0, 667; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 0, 668; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 0, 669; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 0, 670; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 0, 671; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 0, 672; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 0, 673; label: "", preview: false, empty: false] [id: 0, 674; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 0, 675; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 0, 676; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 0, 677; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 0, 678; label: "3 to 3", preview: false, empty: false] [id: 0, 679; label: "3 to 4", preview: false, empty: false] [id: 0, 680; label: "4 to 4", preview: false, empty: false] [id: 0, 681; label: "", preview: false, empty: false] [id: 0, 682; label: "full production", preview: false, empty: false] [id: 0, 683; label: "", preview: false, empty: false] [id: 0, 684; label: "", preview: false, empty: false] [id: 0, 685; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false] [id: 0, 686; label: "", preview: false, empty: false] [id: 0, 687; label: "", preview: false, empty: false] [id: 0, 688; label: "", preview: false, empty: false] [id: 0, 689; label: "", preview: false, empty: false]) (id: 0, 758; label: "active v5.0", preview: false, empty: false; book [id: 0, 691; label: "", preview: false, empty: false] [id: 0, 694; label: "", preview: false, empty: false] [id: 0, 697; label: "", preview: false, empty: false] [id: 0, 698; label: "", preview: false, empty: false] [id: 0, 699; label: "", preview: false, empty: false] [id: 0, 700; label: "", preview: false, empty: false] [id: 0, 701; label: "", preview: false, empty: false] [id: 0, 708; label: "", preview: false, empty: false] [id: 0, 709; label: "", preview: false, empty: false] [id: 0, 711; label: "", preview: false, empty: false] [id: 0, 712; label: "", preview: false, empty: false] [id: 0, 713; label: "", preview: false, empty: false] [id: 0, 714; label: "", preview: false, empty: false] [id: 0, 715; label: "", preview: false, empty: false] [id: 0, 716; label: "", preview: false, empty: false] [id: 0, 728; label: "", preview: false, empty: false] [id: 0, 742; label: "", preview: false, empty: false] [id: 0, 744; label: "", preview: false, empty: false] [id: 0, 745; label: "", preview: false, empty: false] [id: 0, 747; label: "", preview: false, empty: false] [id: 0, 748; label: "", preview: false, empty: false] [id: 0, 749; label: "", preview: false, empty: false] [id: 0, 750; label: "", preview: false, empty: false] [id: 0, 752; label: "", preview: false, empty: false] [id: 0, 757; label: "", preview: false, empty: false] [id: 0, 760; label: "", preview: false, empty: false] [id: 0, 704; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 703; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 739; label: "3 to 3", preview: false, empty: false] [id: 0, 740; label: "3 to 4", preview: false, empty: false] [id: 0, 741; label: "4 to 4", preview: false, empty: false] [id: 0, 717; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 754; label: "Chunk-aligned Cross", preview: false, empty: false] [id: 0, 719; label: "Crossing", preview: false, empty: false] [id: 0, 755; label: "Curve", preview: false, empty: false] [id: 0, 743; label: "full production", preview: false, empty: false] [id: 0, 707; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 710; label: "Furnaces  - Beaconed (Late Game)", preview: false, empty: false] [id: 0, 720; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 718; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 695; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 696; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 724; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 0, 723; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 0, 736; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 0, 735; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 0, 737; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 0, 738; label: "LTN-Bulk-Unload-Rear-B", preview: false, empty: false] [id: 0, 734; label: "LTN-Depot", preview: false, empty: false] [id: 0, 722; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 0, 725; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 0, 727; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 0, 726; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 0, 721; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false] [id: 0, 746; label: "nuclear reactor 4x4 demand driven", preview: false, empty: false] [id: 0, 692; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 702; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 705; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 706; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 693; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 761; label: "stacked green v2.0", preview: false, empty: false] [id: 0, 731; label: "Station Exit Left", preview: false, empty: false] [id: 0, 729; label: "Station Exit Right", preview: false, empty: false] [id: 0, 733; label: "Station/Depot-Entry-Left", preview: false, empty: false] [id: 0, 732; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 0, 751; label: "Straight", preview: false, empty: false] [id: 0, 753; label: "T-Junction", preview: false, empty: false] [id: 0, 756; label: "Turn-Arround", preview: false, empty: false] [id: 0, 730; label: "Waiting Bay", preview: false, empty: false]) (id: 0, 421; label: "Base-in-a-Book 2. Steam Power v5", preview: false, empty: false; book [id: 0, 415; label: "", preview: false, empty: false] [id: 0, 416; label: "", preview: false, empty: false] [id: 0, 417; label: "", preview: false, empty: false] [id: 0, 418; label: "", preview: false, empty: false] [id: 0, 422; label: "", preview: false, empty: false] [id: 0, 414; label: "2. Steam Power (4 Boilers+8 Engines)", preview: false, empty: false] [id: 0, 419; label: "18x18 Solar Array", preview: false, empty: false] [id: 0, 420; label: "s_nuclear_reactor_4", preview: false, empty: false]) (id: 0, 399; label: "Base-in-a-Book 3. Basic Mining and Smelting 4.0", preview: false, empty: false; book [id: 0, 392; label: "3. Basic Mining", preview: false, empty: false] [id: 0, 393; label: "3. Basic Smelting", preview: false, empty: false] [id: 0, 394; label: "3. Basic Steel Smelting", preview: false, empty: false] [id: 0, 395; label: "", preview: false, empty: false] [id: 0, 396; label: "", preview: false, empty: false] [id: 0, 397; label: "", preview: false, empty: false] [id: 0, 398; label: "", preview: false, empty: false]) (id: 0, 335; label: "Base-in-a-Book 4. Main Bus", preview: false, empty: false; book [id: 0, 330; label: "4. Main Bus - Full line", preview: false, empty: false] [id: 0, 331; label: "4. Main Bus - Half line", preview: false, empty: false] [id: 0, 332; label: "4. Main Bus - Middle Half line", preview: false, empty: false] [id: 0, 333; label: "4. Main Bus - Half line One sided", preview: false, empty: false] [id: 0, 334; label: "4. Main Bus - 4x4 Balancer", preview: false, empty: false]) (id: 0, 344; label: "Base-in-a-Book 5. Red/Green Science", preview: false, empty: false; book [id: 0, 342; label: "5. Red/Green Science", preview: false, empty: false] [id: 0, 343; label: "5. Science Labs", preview: false, empty: false]) (id: 0, 346; label: "Base-in-a-Book 6. Green Circuits", preview: false, empty: false; book [id: 0, 759; label: "", preview: false, empty: false] [id: 0, 345; label: "6. Green Circuits", preview: false, empty: false]) (id: 0, 353; label: "Base-in-a-Book 7. Logistics Mall", preview: false, empty: false; book [id: 0, 351; label: "7. Logistics Mall (Early Game)", preview: false, empty: false] [id: 0, 352; label: "7. Logistics Mall (Late Game)", preview: false, empty: false]) (id: 0, 359; label: "Base-in-a-Book 8. Build Everything", preview: false, empty: false; book [id: 0, 354; label: "8. Production Shop", preview: false, empty: false] [id: 0, 355; label: "8. Train Shop", preview: false, empty: false] [id: 0, 356; label: "8. Circuit Network Shop", preview: false, empty: false] [id: 0, 357; label: "8. High Tech Shop", preview: false, empty: false] [id: 0, 358; label: "8. Nuclear Shop", preview: false, empty: false]) (id: 0, 370; label: "Base-in-a-Book 9. Military Science", preview: false, empty: false; book [id: 0, 365; label: "9. Armor Piercing Rounds", preview: false, empty: false] [id: 0, 366; label: "9. Grenades", preview: false, empty: false] [id: 0, 367; label: "9. Gun Turret", preview: false, empty: false] [id: 0, 368; label: "9. Military Science", preview: false, empty: false] [id: 0, 369; label: "9. Modular Military Science", preview: false, empty: false]) (id: 0, 363; label: "Base-in-a-Book 10. Oil Processing", preview: false, empty: false; book [id: 0, 360; label: "10. Basic Oil Processing", preview: false, empty: false] [id: 0, 361; label: "10. Advanced Oil Processing", preview: false, empty: false] [id: 0, 362; label: "10. Beaconed Advanced Oil Processing", preview: false, empty: false]) (id: 0, 131; label: "Base-in-a-Book 11. Plastic and Sulfuric Acid", preview: false, empty: false; book [id: 0, 129; label: "11. Plastic", preview: false, empty: false] [id: 0, 130; label: "11. Sulfuric Acid", preview: false, empty: false]) (id: 0, 128; label: "Base-in-a-Book 12. Red Circuits", preview: false, empty: false; book [id: 0, 126; label: "12. Red Circuits", preview: false, empty: false] [id: 0, 127; label: "12. Red Circuits (Blue Belt)", preview: false, empty: false]) (id: 0, 374; label: "Base-in-a-Book 13. Engines and Blue Science", preview: false, empty: false; book [id: 0, 371; label: "13. Engines", preview: false, empty: false] [id: 0, 372; label: "13. Electric Mining Drills", preview: false, empty: false] [id: 0, 373; label: "13. Blue Science", preview: false, empty: false]) (id: 0, 391; label: "Base-in-a-Book 14. Electric Engines and Purple Science", preview: false, empty: false; book [id: 0, 387; label: "14. Electric Engines", preview: false, empty: false] [id: 0, 388; label: "14. Electric Furnace", preview: false, empty: false] [id: 0, 389; label: "14. Assembling Machine", preview: false, empty: false] [id: 0, 390; label: "14. Purple Science", preview: false, empty: false]) (id: 0, 402; label: "Base-in-a-Book 15. Blue Circuits (2 Blue Belts)", preview: false, empty: false; book [id: 0, 400; label: "Blue Circuit Module (2 Red Belts)", preview: false, empty: false] [id: 0, 401; label: "15. Blue Circuits (2 Blue Belts)", preview: false, empty: false]) (id: 0, 776; label: "Big Blueprints", preview: false, empty: false; book [id: 0, 762; label: "WALL - STRAIGHT", preview: false, empty: false] [id: 0, 763; label: "WALL - STATION", preview: false, empty: false] [id: 0, 764; label: "WALL - STATION", preview: false, empty: false] [id: 0, 765; label: "WALL - CORNER", preview: false, empty: false] [id: 0, 766; label: "4 Reactor Nuclear Power (Belted)", preview: false, empty: false] [id: 0, 767; label: "Compressed Blue Belt", preview: false, empty: false] [id: 0, 768; label: "", preview: false, empty: false] [id: 0, 769; label: "", preview: false, empty: false] [id: 0, 770; label: "SCIENCE MODULE v4", preview: false, empty: false] [id: 0, 771; label: "ROCKET MODULE v6", preview: false, empty: false] [id: 0, 772; label: "2-Stop Loading Station", preview: false, empty: false] [id: 0, 773; label: "", preview: false, empty: false] [id: 0, 774; label: "Nuclear LTN Station", preview: false, empty: false] [id: 0, 775; label: "LTN DEPOT", preview: false, empty: false]) (id: 0, 309; label: "cir 2.0", preview: false, empty: false; book [id: 0, 308; label: "Compact processing units complex (mid-late game)", preview: false, empty: false] [id: 0, 174; label: "Electronics - Stage 3", preview: false, empty: false] [id: 0, 9; label: "Fast Advanced Circuit v1 - mindriot", preview: false, empty: false] [id: 0, 0; label: "Green Circuits (Compressed)", preview: false, empty: false] [id: 0, 12; label: "Purp. Circuit Begin", preview: false, empty: false] [id: 0, 13; label: "Purp. Circuit Tile", preview: false, empty: false] [id: 0, 1; label: "redCircuit", preview: false, empty: false]) (id: 0, 312; label: "droneport v1.0", preview: false, empty: false; book [id: 0, 310; label: "", preview: false, empty: false] [id: 0, 311; label: "", preview: false, empty: false]) (id: 0, 102; label: "Gun Walls (Clockwise)", preview: false, empty: false; book [id: 0, 86; label: "Ammo 1", preview: false, empty: false] [id: 0, 87; label: "Ammo 2 - Piercing", preview: false, empty: false] [id: 0, 88; label: "Ammo 3 - Uranium", preview: false, empty: false] [id: 0, 89; label: "Corner Large", preview: false, empty: false] [id: 0, 90; label: "Corner Small", preview: false, empty: false] [id: 0, 91; label: "Diagonal (1)", preview: false, empty: false] [id: 0, 92; label: "Diagonal (3)", preview: false, empty: false] [id: 0, 93; label: "Left (1)", preview: false, empty: false] [id: 0, 94; label: "Left (3)", preview: false, empty: false] [id: 0, 95; label: "Right (1)", preview: false, empty: false] [id: 0, 96; label: "Right (3)", preview: false, empty: false] [id: 0, 97; label: "Straight (1)", preview: false, empty: false] [id: 0, 98; label: "Straight (3)", preview: false, empty: false] [id: 0, 99; label: "Straight Heavy (1)", preview: false, empty: false] [id: 0, 100; label: "Straight Heavy (3)", preview: false, empty: false] [id: 0, 101; label: "z Outpost - Heavy Defense", preview: false, empty: false]) (id: 0, 492; label: "KoS Early Game", preview: false, empty: false; book [id: 0, 479; label: "Green Circuits (from MMO)", preview: false, empty: false] [id: 0, 480; label: "Power - Steam - Early Game", preview: false, empty: false] [id: 0, 481; label: "Power - Steam - Full Array", preview: false, empty: false] [id: 0, 482; label: "Smelting - 48x Steel (lt)", preview: false, empty: false] [id: 0, 483; label: "Smelting - 48x Steel (rt)", preview: false, empty: false] [id: 0, 484; label: "Smelting - 48x Stone (lt)", preview: false, empty: false] [id: 0, 485; label: "Smelting - 48x Stone (rt)", preview: false, empty: false] [id: 0, 486; label: "Smelting - Steel - 96x Steel F (lt)", preview: false, empty: false] [id: 0, 487; label: "Smelting - Steel - 96x Steel F (rt)", preview: false, empty: false] [id: 0, 488; label: "Smelting - Steel - 96x Stone F (lt)", preview: false, empty: false] [id: 0, 489; label: "Smelting - Steel - 96x Stone F (rt)", preview: false, empty: false] [id: 0, 490; label: "Starter Base (KoS Minimall)", preview: false, empty: false] [id: 0, 491; label: "Starter Base (modified from Antielitz's design)", preview: false, empty: false]) (id: 0, 527; label: "KoS Mall - Early & Late Game", preview: false, empty: false; book [id: 0, 525; label: "KoS Mall 0.15+ (Early Game) I=Inner, O=Outer Lane", preview: false, empty: false] [id: 0, 526; label: "KoS Mall 0.15+ (Late Game) I=Inner, O=Outer Lane", preview: false, empty: false]) (id: 0, 514; label: "KoS Science", preview: false, empty: false; book [id: 0, 507; label: "1 Red & Green Science - 2/sec", preview: false, empty: false] [id: 0, 508; label: "2 Blue & Military (Gray) Science - 2/sec", preview: false, empty: false] [id: 0, 509; label: "3 Production & High Tech Science (Purple/Gold) - 2/sec", preview: false, empty: false] [id: 0, 510; label: "Beaconed Labs", preview: false, empty: false] [id: 0, 511; label: "Beaconed Labs", preview: false, empty: false] [id: 0, 512; label: "Labs with belt braiding blue-red", preview: false, empty: false] [id: 0, 513; label: "Labs with belt braiding yellow-red", preview: false, empty: false]) (id: 0, 571; label: "LTN-Stations L4CL v1.6.2", preview: false, empty: false; book [id: 0, 538; label: "Station/Depot-Entry-Right", preview: false, empty: false] [id: 0, 539; label: "Station/Depot-Entry-Left", preview: false, empty: false] [id: 0, 540; label: "Station Exit Left", preview: false, empty: false] [id: 0, 541; label: "Station Exit Right", preview: false, empty: false] [id: 0, 542; label: "LTN-Bulk-Load-Front-R", preview: false, empty: false] [id: 0, 543; label: "LTN-Bulk-Load-Rear-R", preview: false, empty: false] [id: 0, 544; label: "LTN-Bulk-Unload-Front-R", preview: false, empty: false] [id: 0, 545; label: "LTN-Bulk-Unload-Rear-R", preview: false, empty: false] [id: 0, 546; label: "R-8-4 Balancer", preview: false, empty: false] [id: 0, 547; label: "R-8-8 Balancer", preview: false, empty: false] [id: 0, 548; label: "LTN-3-Unload-Front-R", preview: false, empty: false] [id: 0, 549; label: "LTN-3-Unload-Rear-R", preview: false, empty: false] [id: 0, 550; label: "LTN-Bulk-Load-Front-B", preview: false, empty: false] [id: 0, 551; label: "LTN-Bulk-Load-Rear-B", preview: false, empty: false] [id: 0, 552; label: "LTN-Bulk-Unload-Front-B", preview: false, empty: false] [id: 0, 553; label: "LTN-Bulk-Unload-Rear-B", preview: false, empty: false] [id: 0, 554; label: "B-8-4 Balancer", preview: false, empty: false] [id: 0, 555; label: "B-8-8 Balancer", preview: false, empty: false] [id: 0, 556; label: "LTN-3-Unload-Front-B", preview: false, empty: false] [id: 0, 557; label: "LTN-3-Unload-Rear-B", preview: false, empty: false] [id: 0, 558; label: "LTN-Fluid-Load-Full", preview: false, empty: false] [id: 0, 559; label: "LTN-Fluid-Unload-Full", preview: false, empty: false] [id: 0, 560; label: "LTN-3-Fluid-Unload", preview: false, empty: false] [id: 0, 561; label: "LTN-1-Fluid-Load", preview: false, empty: false] [id: 0, 562; label: "LTN-Fluid-Straight-Outpost", preview: false, empty: false] [id: 0, 563; label: "LTN-Universal-Provider", preview: false, empty: false] [id: 0, 564; label: "LTN-Universal-Requester", preview: false, empty: false] [id: 0, 565; label: "Waiting Bay", preview: false, empty: false] [id: 0, 566; label: "LTN-Depot", preview: false, empty: false] [id: 0, 567; label: "LTN-Mine-Outpost-R", preview: false, empty: false] [id: 0, 568; label: "LTN-Mine-Outpost-B", preview: false, empty: false] [id: 0, 569; label: "LTN-UraniumOre-Outpost-R", preview: false, empty: false] [id: 0, 570; label: "LTN-UraniumOre-Outpost-B", preview: false, empty: false]) (id: 0, 524; label: "Rail", preview: false, empty: false; book [id: 0, 424; label: "Celtic Knot Intersection (RHD)", preview: false, empty: false]) (id: 0, 536; label: "Railways v1.3 Red/Green Wires", preview: false, empty: false; book [id: 0, 530; label: "Straight", preview: false, empty: false] [id: 0, 531; label: "Curve", preview: false, empty: false] [id: 0, 532; label: "Turn-Arround", preview: false, empty: false] [id: 0, 533; label: "T-Junction", preview: false, empty: false] [id: 0, 534; label: "Chunk-aligned Cross", preview: false, empty: false] [id: 0, 535; label: "Crossing", preview: false, empty: false]) (id: 0, 240; label: "Red Belt Balancer", preview: false, empty: false; book [id: 0, 175; label: "1 to 1", preview: false, empty: false] [id: 0, 176; label: "1 to 2", preview: false, empty: false] [id: 0, 177; label: "1 to 3", preview: false, empty: false] [id: 0, 178; label: "1 to 4", preview: false, empty: false] [id: 0, 179; label: "1 to 5", preview: false, empty: false] [id: 0, 180; label: "1 to 6", preview: false, empty: false] [id: 0, 181; label: "1 to 7", preview: false, empty: false] [id: 0, 182; label: "1 to 8", preview: false, empty: false] [id: 0, 183; label: "2 to 1", preview: false, empty: false] [id: 0, 184; label: "2 to 2", preview: false, empty: false] [id: 0, 185; label: "2 to 3 (Long)", preview: false, empty: false] [id: 0, 186; label: "2 to 3", preview: false, empty: false] [id: 0, 187; label: "2 to 4", preview: false, empty: false] [id: 0, 188; label: "2 to 5", preview: false, empty: false] [id: 0, 189; label: "2 to 6", preview: false, empty: false] [id: 0, 190; label: "2 to 7", preview: false, empty: false] [id: 0, 191; label: "2 to 8", preview: false, empty: false] [id: 0, 192; label: "3 to 1", preview: false, empty: false] [id: 0, 193; label: "3 to 2", preview: false, empty: false] [id: 0, 194; label: "3 to 3", preview: false, empty: false] [id: 0, 195; label: "3 to 4", preview: false, empty: false] [id: 0, 196; label: "3 to 5", preview: false, empty: false] [id: 0, 197; label: "3 to 6", preview: false, empty: false] [id: 0, 198; label: "3 to 7", preview: false, empty: false] [id: 0, 199; label: "3 to 8", preview: false, empty: false] [id: 0, 200; label: "4 to 1", preview: false, empty: false] [id: 0, 201; label: "4 to 2", preview: false, empty: false] [id: 0, 202; label: "4 to 3", preview: false, empty: false] [id: 0, 203; label: "4 to 4", preview: false, empty: false] [id: 0, 204; label: "4 to 5", preview: false, empty: false] [id: 0, 205; label: "4 to 6", preview: false, empty: false] [id: 0, 206; label: "4 to 7", preview: false, empty: false] [id: 0, 207; label: "4 to 8", preview: false, empty: false] [id: 0, 208; label: "5 to 1", preview: false, empty: false] [id: 0, 209; label: "5 to 2", preview: false, empty: false] [id: 0, 210; label: "5 to 3", preview: false, empty: false] [id: 0, 211; label: "5 to 4", preview: false, empty: false] [id: 0, 212; label: "5 to 5", preview: false, empty: false] [id: 0, 213; label: "5 to 6", preview: false, empty: false] [id: 0, 214; label: "5 to 7", preview: false, empty: false] [id: 0, 215; label: "5 to 8", preview: false, empty: false] [id: 0, 216; label: "6 to 1", preview: false, empty: false] [id: 0, 217; label: "6 to 2", preview: false, empty: false] [id: 0, 218; label: "6 to 3", preview: false, empty: false] [id: 0, 219; label: "6 to 4", preview: false, empty: false] [id: 0, 220; label: "6 to 5", preview: false, empty: false] [id: 0, 221; label: "6 to 6", preview: false, empty: false] [id: 0, 222; label: "6 to 7", preview: false, empty: false] [id: 0, 223; label: "6 to 8", preview: false, empty: false] [id: 0, 224; label: "7 to 1", preview: false, empty: false] [id: 0, 225; label: "7 to 2", preview: false, empty: false] [id: 0, 226; label: "7 to 3", preview: false, empty: false] [id: 0, 227; label: "7 to 4", preview: false, empty: false] [id: 0, 228; label: "7 to 5", preview: false, empty: false] [id: 0, 229; label: "7 to 6", preview: false, empty: false] [id: 0, 230; label: "7 to 7", preview: false, empty: false] [id: 0, 231; label: "7 to 8", preview: false, empty: false] [id: 0, 232; label: "8 to 1", preview: false, empty: false] [id: 0, 233; label: "8 to 2", preview: false, empty: false] [id: 0, 234; label: "8 to 3", preview: false, empty: false] [id: 0, 235; label: "8 to 4", preview: false, empty: false] [id: 0, 236; label: "8 to 5", preview: false, empty: false] [id: 0, 237; label: "8 to 6", preview: false, empty: false] [id: 0, 238; label: "8 to 7", preview: false, empty: false] [id: 0, 239; label: "8 to 8", preview: false, empty: false]) (id: 0, 8; label: "18x18 Solar Array", preview: false, empty: false; single) (id: 0, 16; label: "Balanced Gas from Coal Liquefaction", preview: false, empty: false; single) (id: 0, 103; label: "boiler", preview: false, empty: false; single) (id: 0, 173; label: "Coal liquefaction to plastic", preview: false, empty: false; single) (id: 0, 597; label: "Compact Circuits Block", preview: false, empty: false; single) (id: 0, 10; label: "electric furnace", preview: false, empty: false; single) (id: 0, 313; label: "Green Circuits (Compressed)", preview: false, empty: false; single) (id: 0, 523; label: "KoS - Furnaces  - Beaconed (Late Game)", preview: false, empty: false; single) (id: 0, 537; label: "LTN Depot (6 carriages)", preview: false, empty: false; single) (id: 0, 462; label: "nanobots", preview: false, empty: false; single) (id: 0, 459; label: "Oil MK1", preview: false, empty: false; single) (id: 0, 529; label: "Rails - Straight", preview: false, empty: false; single) (id: 0, 403; label: "red-beacon", preview: false, empty: false; single) (id: 0, 406; label: "s_nuclear_reactor_4", preview: false, empty: false; single
+ 106.481 Verbose Scenario.cpp:211: Entities setup finished: 1.701458 seconds.
+ 106.482 Loading script.dat: 1052671 bytes.
+ 106.487 Checksum for script /Users/dougbeal/Library/Application Support/factorio/temp/currently-playing/control.lua: 55817070
+ 106.495 Checksum for script __miniloader__/control.lua: 1336855776
+ 106.497 Checksum for script __Advanced-Atomics__/control.lua: 0
+ 106.499 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+ 106.500 Checksum for script __alien-biomes__/control.lua: 2144410014
+ 106.503 Checksum for script __AutoDeconstruct__/control.lua: 841833857
+ 106.504 Checksum for script __BitersBegone__/control.lua: 3148325771
+ 106.507 Checksum for script __Bottleneck__/control.lua: 730129785
+ 106.550 Checksum for script __creative-mode-fix__/control.lua: 276443705
+ 106.551 Checksum for script __DeadlockLoaders__/control.lua: 2831711522
+ 106.555 Checksum for script __even-distribution__/control.lua: 270204062
+ 106.571 Checksum for script __FNEI__/control.lua: 443715416
+ 106.617 Checksum for script __helmod__/control.lua: 296465969
+ 106.623 Checksum for script __LogisticTrainNetwork__/control.lua: 3966024708
+ 106.624 Checksum for script __long-reach__/control.lua: 591077130
+ 106.646 Checksum for script __Nanobots__/control.lua: 3466759847
+ 106.650 Checksum for script __PavementDriveAssist__/control.lua: 3705059083
+ 106.742 Script @__PickerExtended__/blueprints/balancers.lua:29: Imported 55 Balancers
+ 106.754 Checksum for script __PickerExtended__/control.lua: 137844422
+ 106.761 Checksum for script __PlannerCore__/control.lua: 4153488223
+ 106.763 Checksum for script __RadarGridGuide__/control.lua: 2763006925
+ 106.769 Checksum for script __research-queue__/control.lua: 3028287254
+ 106.771 Checksum for script __Tiny_Start__/control.lua: 4098003319
+ 106.772 Checksum for script __TrainToggle__/control.lua: 544748117
+ 106.775 Checksum for script __Train_Ore_Color-016__/control.lua: 2137516122
+ 106.779 Checksum for script __upgrade-planner__/control.lua: 1007996437
+ 106.780 Checksum for script __VehicleSnap__/control.lua: 3426081906
+ 106.782 Checksum for script __Warehousing__/control.lua: 2501950919
+ 106.784 Checksum for script __WaterWell__/control.lua: 107213243
+ 106.785 Checksum for script __ZRecycling__/control.lua: 979811401
+ 106.790 Checksum for script __OutpostPlanner__/control.lua: 3629979036
+ 108.122 Script @__LogisticTrainNetwork__/control.lua:217: [LTN] on_load: complete
+ 108.143 Verbose Scenario.cpp:261: Map setup finished: 6.285394 seconds.
+ 233.908 [OpenGL] glDrawArrays in ogl_flush_vertex_cache:0: GL_INVALID_OPERATION
+ 411.623 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+ 411.799 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+ 414.107 Verbose Scenario.cpp:647: Time to save game: 2.30787
+ 414.108 Info AppManagerStates.cpp:1642: Saving finished
+ 715.131 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+ 715.318 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+ 717.731 Verbose Scenario.cpp:647: Time to save game: 2.41276
+ 717.732 Info AppManagerStates.cpp:1642: Saving finished
+ 917.394 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/nxt ltn - 05
+ 919.594 Verbose Scenario.cpp:647: Time to save game: 2.20014
+ 919.639 Info AppManagerStates.cpp:1642: Saving finished
+1029.760 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+1029.927 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+1031.975 Verbose Scenario.cpp:647: Time to save game: 2.0479
+1031.976 Info AppManagerStates.cpp:1642: Saving finished
+1334.634 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+1334.789 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+1336.877 Verbose Scenario.cpp:647: Time to save game: 2.08764
+1336.886 Info AppManagerStates.cpp:1642: Saving finished
+1357.667 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/nxt ltn - 05
+1359.679 Verbose Scenario.cpp:647: Time to save game: 2.01181
+1359.727 Info AppManagerStates.cpp:1642: Saving finished
+1646.436 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+1646.602 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+1648.876 Verbose Scenario.cpp:647: Time to save game: 2.27386
+1648.877 Info AppManagerStates.cpp:1642: Saving finished
+1952.123 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+1952.285 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+1954.893 Verbose Scenario.cpp:647: Time to save game: 2.60804
+1954.906 Info AppManagerStates.cpp:1642: Saving finished
+2255.782 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+2255.957 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+2258.242 Verbose Scenario.cpp:647: Time to save game: 2.28495
+2258.249 Info AppManagerStates.cpp:1642: Saving finished
+2560.189 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+2560.356 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+2562.440 Verbose Scenario.cpp:647: Time to save game: 2.08433
+2562.452 Info AppManagerStates.cpp:1642: Saving finished
+2572.085 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/nxt ltn - 05
+2574.272 Verbose Scenario.cpp:647: Time to save game: 2.18672
+2574.306 Info AppManagerStates.cpp:1642: Saving finished
+2874.065 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+2874.173 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+2876.653 Verbose Scenario.cpp:647: Time to save game: 2.48032
+2876.661 Info AppManagerStates.cpp:1642: Saving finished
+3179.577 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+3179.700 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+3182.088 Verbose Scenario.cpp:647: Time to save game: 2.38858
+3182.097 Info AppManagerStates.cpp:1642: Saving finished
+3484.393 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+3484.507 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+3486.728 Verbose Scenario.cpp:647: Time to save game: 2.22059
+3486.732 Info AppManagerStates.cpp:1642: Saving finished
+3494.145 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/nxt ltn - 05
+3496.419 Verbose Scenario.cpp:647: Time to save game: 2.27465
+3496.451 Info AppManagerStates.cpp:1642: Saving finished
+3796.669 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+3796.792 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+3799.181 Verbose Scenario.cpp:647: Time to save game: 2.38916
+3799.188 Info AppManagerStates.cpp:1642: Saving finished
+4100.683 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+4100.804 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+4103.523 Verbose Scenario.cpp:647: Time to save game: 2.71878
+4103.529 Info AppManagerStates.cpp:1642: Saving finished
+4406.928 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+4407.039 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+4409.381 Verbose Scenario.cpp:647: Time to save game: 2.34194
+4409.398 Info AppManagerStates.cpp:1642: Saving finished
+4717.108 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+4717.218 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+4719.643 Verbose Scenario.cpp:647: Time to save game: 2.42538
+4719.651 Info AppManagerStates.cpp:1642: Saving finished
+4783.736 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/nxt ltn - 05
+4786.107 Verbose Scenario.cpp:647: Time to save game: 2.37063
+4786.141 Info AppManagerStates.cpp:1642: Saving finished
+5029.556 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+5029.725 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+5032.078 Verbose Scenario.cpp:647: Time to save game: 2.35363
+5032.090 Info AppManagerStates.cpp:1642: Saving finished
+5048.778 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/nxt ltn - 05
+5051.294 Verbose Scenario.cpp:647: Time to save game: 2.51553
+5051.330 Info AppManagerStates.cpp:1642: Saving finished
+5343.199 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+5343.362 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+5346.131 Verbose Scenario.cpp:647: Time to save game: 2.7689
+5346.133 Info AppManagerStates.cpp:1642: Saving finished
+5651.484 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+5651.585 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+5654.130 Verbose Scenario.cpp:647: Time to save game: 2.54477
+5654.136 Info AppManagerStates.cpp:1642: Saving finished
+5964.586 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+5964.703 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+5967.503 Verbose Scenario.cpp:647: Time to save game: 2.79928
+5967.510 Info AppManagerStates.cpp:1642: Saving finished
+6133.172 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/nxt ltn - 05
+6135.927 Verbose Scenario.cpp:647: Time to save game: 2.7547
+6135.957 Info AppManagerStates.cpp:1642: Saving finished
+6277.580 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+6277.745 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+6280.399 Verbose Scenario.cpp:647: Time to save game: 2.6534
+6280.414 Info AppManagerStates.cpp:1642: Saving finished
+6583.595 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+6583.744 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+6586.294 Verbose Scenario.cpp:647: Time to save game: 2.55033
+6586.295 Info AppManagerStates.cpp:1642: Saving finished
+6889.592 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+6889.716 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+6892.789 Verbose Scenario.cpp:647: Time to save game: 3.07395
+6892.801 Info AppManagerStates.cpp:1642: Saving finished
+7197.078 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+7197.232 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+7199.938 Verbose Scenario.cpp:647: Time to save game: 2.70557
+7199.944 Info AppManagerStates.cpp:1642: Saving finished
+7503.493 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+7503.638 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+7506.582 Verbose Scenario.cpp:647: Time to save game: 2.94406
+7506.584 Info AppManagerStates.cpp:1642: Saving finished
+7809.242 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+7809.363 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+7812.095 Verbose Scenario.cpp:647: Time to save game: 2.73234
+7812.101 Info AppManagerStates.cpp:1642: Saving finished
+8115.347 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+8115.471 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave2
+8118.354 Verbose Scenario.cpp:647: Time to save game: 2.88307
+8118.357 Info AppManagerStates.cpp:1642: Saving finished
+8420.596 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+8420.718 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave3
+8423.458 Verbose Scenario.cpp:647: Time to save game: 2.74047
+8423.462 Info AppManagerStates.cpp:1642: Saving finished
+8725.926 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+8726.097 Verbose Scenario.cpp:543: Saving game as /Users/dougbeal/Library/Application Support/factorio/saves/_autosave1
+8728.685 Verbose Scenario.cpp:647: Time to save game: 2.58814
+8728.694 Info AppManagerStates.cpp:1642: Saving finished
+Factorio crashed. Generating symbolized stacktrace, please wait ...
+Factorio crashed. Generating symbolized stacktrace, please wait ...
+8771.172 Error CrashHandler.cpp:520: Received SIGSEGV
+Factorio crashed. Generating symbolized stacktrace, please wait ...
+#0  0x0000000100a23f92 in Logger::logStacktrace(StackTraceInfo*) (in factorio) (Logger.cpp:510)
+#1  0x0000000100a1207d in CrashHandler::writeStackTrace(CrashHandler::CrashReason) (in factorio) (CrashHandler.cpp:173)
+#2  0x0000000100a13034 in CrashHandler::commonSignalHandler(int) (in factorio) (CrashHandler.cpp:522)
+#3  0x0000000100a11fa9 in CrashHandler::SignalHandler(int) (in factorio) (CrashHandler.cpp:535)
+#4  0x00007fff9b3b6b3a in 0x00007fff9b3b6b3a
+#5  0xc010000000000000 in 0xc010000000000000
+#6  0x00007fff9b23b420 in 0x00007fff9b23b420
+#7  0x00007fff9b33ad98 in 0x00007fff9b33ad98
+#8  0x00007fff9b3304bb in 0x00007fff9b3304bb
+#9  0x00007fff9b3303bf in 0x00007fff9b3303bf
+#10 0x00007fff9b329282 in 0x00007fff9b329282
+#11 0x00007fff85a200a6 in 0x00007fff85a200a6
+#12 0x00007fff84f80ebc in 0x00007fff84f80ebc
+#13 0x00007fff84f80bf9 in 0x00007fff84f80bf9
+#14 0x00007fff84f80b26 in 0x00007fff84f80b26
+#15 0x00007fff83517a54 in 0x00007fff83517a54
+#16 0x00007fff83c937ee in 0x00007fff83c937ee
+#17 0x00007fff8350c3db in 0x00007fff8350c3db
+#18 0x0000000100e3a7ca in _al_osx_run_main (in factorio) (osx_app_delegate.m:357)
+#19 0x0000000100f43170 in main (in factorio) (osx_main.m:35)
+#20 0x00007fff9b1a7235 in 0x00007fff9b1a7235
+Stack trace logging done
+#0  0x0000000100a23f92 in Logger::logStacktrace(StackTraceInfo*) (in factorio) (Logger.cpp:510)
+#1  0x0000000100a1207d in CrashHandler::writeStackTrace(CrashHandler::CrashReason) (in factorio) (CrashHandler.cpp:173)
+#2  0x0000000100a13034 in CrashHandler::commonSignalHandler(int) (in factorio) (CrashHandler.cpp:522)
+#3  0x0000000100a11fa9 in CrashHandler::SignalHandler(int) (in factorio) (CrashHandler.cpp:535)
+#4  0x00007fff9b3b6b3a in 0x00007fff9b3b6b3a
+#5  0x0000000000000038 in 0x00000038 (in factorio)
+#6  0x00007fff9b23b420 in 0x00007fff9b23b420
+#7  0x00007fff9b33ad98 in 0x00007fff9b33ad98
+#8  0x00007fff9b330588 in 0x00007fff9b330588
+#9  0x00007fff9b3303bf in 0x00007fff9b3303bf
+#10 0x00007fff9b329282 in 0x00007fff9b329282
+#11 0x00007fff9b32bfa1 in 0x00007fff9b32bfa1
+#12 0x0000000100d299b7 in luaM_realloc_(lua_State*, void*, unsigned long, unsigned long) (in factorio) + 39
+#13 0x0000000100d33725 in luaH_resize(lua_State*, Table*, int, int) (in factorio) + 117
+#14 0x0000000100d33e0f in luaH_newkey(lua_State*, Table*, lua_TValue const*) (in factorio) + 239
+#15 0x0000000100d362de in luaV_settable(lua_State*, lua_TValue const*, lua_TValue*, lua_TValue*) (in factorio) + 238
+#16 0x0000000100d1727d in lua_setfield(lua_State*, int, char const*) (in factorio) + 317
+#17 0x0000000100cb5caa in LuaBinder<LuaInventory>::registerObject(lua_State*, LuaInventory*, int) (in factorio) (LuaBinder.hpp:47)
+#18 0x000000010095689d in LuaInventory::initLuaState(lua_State*) (in factorio) (LuaInventory.cpp:135)
+#19 0x000000010095513c in LuaInventory::LuaInventory(InventoryTarget const&, lua_State*) (in factorio) (LuaInventory.cpp:83)
+#20 0x0000000100898c33 in LuaInventory::LuaInventory(Entity*, unsigned char, lua_State*) (in factorio) (LuaInventory.cpp:57)
+#21 0x00000001008e7589 in LuaEntity::luaGetOutputInventory(lua_State*) (in factorio) (LuaEntity.cpp:450)
+#22 0x0000000100c9eed7 in LuaBinder<LuaEntity>::callWrapper(lua_State*) (in factorio) (LuaBinder.hpp:326)
+#23 0x0000000100d21508 in luaD_precall(lua_State*, lua_TValue*, int) (in factorio) + 504
+#24 0x0000000100d3837d in luaV_execute(lua_State*) (in factorio) + 3789
+#25 0x0000000100d21977 in luaD_call(lua_State*, lua_TValue*, int, int) (in factorio) + 103
+#26 0x0000000100d2216d in luaD_pcall(lua_State*, void (*)(lua_State*, void*), void*, long, long) (in factorio) + 93
+#27 0x0000000100d178b8 in lua_pcallk(lua_State*, int, int, int, int, int (*)(lua_State*)) (in factorio) + 216
+#28 0x0000000100910f03 in LuaGameScript::runEventHandler(unsigned int) (in factorio) (LuaGameScript.cpp:761)
+#29 0x000000010090b3fb in void LuaEventDispatcher::run<GameAction>(unsigned int, unsigned int, bool (LuaGameScript::*)(GameAction const&), GameAction const&) (in factorio) (LuaEventDispatcher.cpp:478)
+#30 0x00000001008a1ea8 in LuaEventDispatcher::dispatch(unsigned int) (in factorio) (LuaEventDispatcher.cpp:0)
+#31 0x000000010088df15 in LuaContext::update() (in factorio) (TimeStatistics.cpp:185)
+#32 0x000000010088d526 in Scenario::update() (in factorio) (Scenario.cpp:863)
+#33 0x00000001007650c4 in MainLoop::gameUpdateStep(MultiplayerManagerBase*, Scenario*, AppManager*, MainLoop::HeavyMode) (in factorio) (MainLoop.cpp:1001)
+#34 0x000000010076315a in MainLoop::gameUpdateLoop(MainLoop::HeavyMode) (in factorio) (MainLoop.cpp:868)
+#35 0x0000000100a41b34 in WorkerThread::loop() (in factorio) (WorkerThread.cpp:36)
+#36 0x0000000100cf913e in void* std::__1::__thread_proxy<std::__1::tuple<std::__1::unique_ptr<std::__1::__thread_struct, std::__1::default_delete<std::__1::__thread_struct> >, void (WorkerThread::*)(), WorkerThread*> >(void*) (in factorio) (thread:354)
+#37 0x00007fff9b3c093b in 0x00007fff9b3c093b
+#38 0x00007fff9b3c0887 in 0x00007fff9b3c0887
+#39 0x00007fff9b3c008d in 0x00007fff9b3c008d
+Stack trace logging done
+#0  0x0000000100a23f92 in Logger::logStacktrace(StackTraceInfo*) (in factorio) (Logger.cpp:510)
+#1  0x0000000100a1207d in CrashHandler::writeStackTrace(CrashHandler::CrashReason) (in factorio) (CrashHandler.cpp:173)
+#2  0x0000000100a13034 in CrashHandler::commonSignalHandler(int) (in factorio) (CrashHandler.cpp:522)
+#3  0x0000000100a11fa9 in CrashHandler::SignalHandler(int) (in factorio) (CrashHandler.cpp:535)
+#4  0x00007fff9b3b6b3a in 0x00007fff9b3b6b3a
+#5  (nil) in 0x0
+#6  0x00007fff9b3303bf in 0x00007fff9b3303bf
+#7  0x00007fff9b329282 in 0x00007fff9b329282
+#8  0x00007fff9b328200 in 0x00007fff9b328200
+#9  0x00007fff9b238939 in 0x00007fff9b238939
+#10 0x00007fff9b3f7ada in 0x00007fff9b3f7ada
+#11 0x00007fff9b3f6e23 in 0x00007fff9b3f6e23
+#12 0x00007fff9b3f6cab in 0x00007fff9b3f6cab
+#13 0x00007fff9b3f699c in 0x00007fff9b3f699c
+#14 0x00007fff9b3f79db in 0x00007fff9b3f79db
+#15 0x00007fff9b3f490c in 0x00007fff9b3f490c
+#16 0x00007fff86bd2ba1 in 0x00007fff86bd2ba1
+#17 0x00007fff9b3faf96 in 0x00007fff9b3faf96
+#18 0x00007fff9b3f9957 in 0x00007fff9b3f9957
+#19 0x00007fff9b177726 in 0x00007fff9b177726
+#20 0x00007fff9b177999 in 0x00007fff9b177999
+#21 0x00007fff9b1877db in 0x00007fff9b1877db
+#22 0x00007fff9b176497 in 0x00007fff9b176497
+#23 0x00007fff9b18824c in 0x00007fff9b18824c
+#24 0x00007fff9b18b27a in 0x00007fff9b18b27a
+#25 0x00007fff9b3c047b in 0x00007fff9b3c047b
+#26 0x00007fff9b3c007d in 0x00007fff9b3c007d
+Stack trace logging done
+8777.994 Error CrashHandler.cpp:174: Map tick at moment of crash: 14708120
+8777.994 Error Util.cpp:67: Unexpected error occurred. If you're running the latest version of the game you can help us solve the problem by posting the contents of the log file on the Factorio forums.
+Please also include the save file(s), any mods you may be using, and any steps you know of to reproduce the crash.
+8778.247 Error CrashHandler.cpp:174: Map tick at moment of crash: 14708120
+8778.247 Error Util.cpp:67: Unexpected error occurred. If you're running the latest version of the game you can help us solve the problem by posting the contents of the log file on the Factorio forums.
+Please also include the save file(s), any mods you may be using, and any steps you know of to reproduce the crash.
+8778.247 Uploading log file
+8784.077 Error CrashHandler.cpp:174: Map tick at moment of crash: 14708120
+8784.077 Error Util.cpp:67: Unexpected error occurred. If you're running the latest version of the game you can help us solve the problem by posting the contents of the log file on the Factorio forums.
+Please also include the save file(s), any mods you may be using, and any steps you know of to reproduce the crash.
+8784.077 Uploading log file

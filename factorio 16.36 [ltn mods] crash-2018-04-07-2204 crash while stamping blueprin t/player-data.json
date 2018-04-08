@@ -1,0 +1,67 @@
+{
+  "available-campaign-levels": {
+    "beta": {
+      "level-01": "easy",
+      "level-02": "easy"
+    },
+    "demo": {
+      "level-01": "hard",
+      "level-02": "easy",
+      "level-03": "easy"
+    },
+    "tight-spot": {
+      "level-01": "hard"
+    },
+    "transport-belt-madness": {
+      "level-01": "hard"
+    }
+  },
+  "finished-campaigns": {
+    "demo": "easy"
+  },
+  "tutorials": {
+    "construction-robots": "suggested",
+    "logistic-system-basic": "suggested",
+    "stack-transfers": "completed",
+    "trains-advanced-signals": "completed",
+    "trains-basic-signals": "completed",
+    "trains-basics": "completed",
+    "trains-ghost-rail-planner": "suggested",
+    "trains-stations": "completed"
+  },
+  "console-history": [
+    "/c game.forces[\"enemy\"].kill_all_units()",
+    "/c game.map_settings.enemy_expansion.enabled=false",
+    "/c local surface=game.player.surface for key, entity in pairs(surface.find_entities_filtered({force=\"enemy\"})) do  entity.destroy() end",
+    "/c game.forces[\"player\"].character_build_distance_bonus = 119",
+    "game.forces[\"player\"].character_build_distance_bonus",
+    "print game.forces[\"player\"].character_build_distance_bonus",
+    "game.player",
+    "log(\"foo\")",
+    "game.log(\"foo\")",
+    "/c log(\"foo\")",
+    "/c print game.forces[\"player\"].character_build_distance_bonus",
+    "/c print( game.forces[\"player\"].character_build_distance_bonus)",
+    "/c game.player.print game.forces[\"player\"].character_build_distance_bonus",
+    "/c game.player.print( game.forces[\"player\"].character_build_distance_bonus )"
+  ],
+  "service-username": "dougbeal",
+  "service-token": "3af66db91eb0357cef2fbd6d5d5dc7",
+  "last-used-filters": {
+    "password": "any",
+    "mods": "any",
+    "friends": "any"
+  },
+  "column-ordering": {
+    "public-index": "name",
+    "public-ascending": true,
+    "lan-index": "name",
+    "lan-ascending": true
+  },
+  "last-played-version": {
+    "game_version": "0.16.36",
+    "build_version": 36253,
+    "build_mode": "alpha",
+    "platform": "mac"
+  }
+}
